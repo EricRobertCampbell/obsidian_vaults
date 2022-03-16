@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "bdaa8c6ee544144b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14904020048917ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "beeb8034ea41fe40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "217128747f920dcc"
+          },
+          {
+            "id": "c705076df433d35a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "217128747f920dcc"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b758ddbb4a9799e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a2571d49c66398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a70b9eaf22d2bc1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f746c54d7306c68c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174b504126f43a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "49205893acd4acb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5cbb68a82be9be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "beeb8034ea41fe40",
+  "lastOpenFiles": [
+    "Personal Todo.md",
+    "Todo.md"
+  ]
+}
