@@ -1,0 +1,12 @@
+# Slice and Dice Your Tests
+- [[Gleb Bahmutov]]
+- [[cypress]]
+- `cypress-grep` plugin to manage tags
+- You can pass along custom parameters when you run Cypress to e.g. test mobile viewports
+- "directly spying on graphql calls made by the application" - youtube video
+- Reducing flake
+	- spy on the graphql calls
+	- cy.wait('@thegraphqlcall')
+	- "set graphql operation name as custom header and use it in cy.intercept" video
+	- [[testrail]] - apparently a place to keep track of tests? Also manual tests can be recorded there
+	- Also you can use ??`cy.request`?? to check whether a link goes somewhere and doesn't result in a 404
