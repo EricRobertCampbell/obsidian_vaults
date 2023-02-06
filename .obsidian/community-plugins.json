@@ -1,3 +1,7 @@
 [
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview",
+  "obsidian-citation-plugin",
+  "templater-obsidian",
+  "obsidian-admonition"
 ]
