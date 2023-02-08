@@ -1,2 +1,3 @@
 - [[2022-11-16 - Overcoming the Top 5 Broker Tech Challenges]]
 - [[2022-11-30 - Top Digital Trends Impacting Insurance in 2023]]
+- [[CSIO Standards and Solutions Driving Innovation]]
