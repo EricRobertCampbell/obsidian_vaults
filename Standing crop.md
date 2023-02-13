@@ -1,0 +1,1 @@
+Total amount / biomass of organisms in a particular place

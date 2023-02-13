@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alice A. Winn.md",
+                "file": "Life Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jj",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alice A. Winn.md",
+                "file": "Life Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,14 +110,14 @@
   "active": "6ee7824519f40131",
   "lastOpenFiles": [
     "@ericksonTyrannosaurLifeTables2006.md",
+    "Albertosaurus sarcophagus.md",
+    "Gompertz curve.md",
+    "Standing crop.md",
+    "Alice A. Winn.md",
     "Paleontology.md",
     "Untitled 2.md",
     "@andersonLongBoneCircumference1985.md",
     "A. Hall‐Martin.md",
-    "D. A. Russell.md",
-    "J. F. Anderson.md",
-    "Gregory M. Erickson.md",
-    "Alice A. Winn.md",
-    "Philip J. Currie.md"
+    "D. A. Russell.md"
   ]
 }
