@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSIO Standards and Solutions Driving Innovation.md",
+                "file": "Life Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSIO Standards and Solutions Driving Innovation.md",
+                "file": "Life Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,14 @@
     "Untitled 1.md",
     "Alice A. Winn.md",
     "@ericksonTyrannosaurLifeTables2006.md",
+    "Albertosaurus sarcophagus.md",
+    "Gompertz curve.md",
+    "Standing crop.md",
+    "Alice A. Winn.md",
     "Paleontology.md",
     "Untitled 2.md",
-    "@andersonLongBoneCircumference1985.md"
+    "@andersonLongBoneCircumference1985.md",
+    "A. Hall‐Martin.md",
+    "D. A. Russell.md"
   ]
 }
