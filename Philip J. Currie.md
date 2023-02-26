@@ -1,3 +1,4 @@
+## Publications
 ```dataview
-list title where contains(authors, "Philip J. Currie")
+list title where icontains(authors, "Philip J. Currie") sort year asc
 ```

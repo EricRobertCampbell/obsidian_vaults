@@ -1,0 +1,3 @@
+- Extinct genus of primitive vascular plants
+- [[Carboniferous]]
+- Large; heights of 50m and trunk diameter > 1m

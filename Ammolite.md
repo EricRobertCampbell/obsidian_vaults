@@ -1,0 +1,5 @@
+- Seashells (mostly of [[Ammonite]]s) preserved with beautiful colours
+- Semi-precious
+- Fossilized [[Aragonite]] shells of [[Ammonite|ammonites]]
+- [[Korite Ammolite Mine]] (near Lethbridge) is one of the only legal commercial  fossil companies in Canada
+- Mine to make jewellery

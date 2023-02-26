@@ -1,0 +1,5 @@
+- Extinct genus of [[Cephalopoda|cephalopod]] with a nearly straight shell
+- Type of [[Ammonite|ammonite]]
+- [[Mollusca]] - [[Cephalopoda]] - [[Ammonoidea]] - [[Ancyloceratina]] - [[Baculitidae]]
+- Intricately folded suture line between segments
+- Some members survived the [[K-Pg Extinction]]

@@ -1,7 +1,14 @@
+---
+authors: Peter Schryvers
+title: "Bad Data - Measuring the Metrics That Matter"
+series: Data for Good YYC Speaker Series
+date: 2022-03-04
+---
 # Bad Data - Measuring the Metrics That Matter
-- Talk presented by [[Data For Good]]
+- Talk presented by [[Data For Good YYC]]
 - Speaker: [[Peter Schryvers]]
 - Date: 2022-03-04
+**series**: [[Data for Good YYC Speaker Series]]
 
 - Based on the book of the same name
 - Focus on the wrong things because we measure the wrong things

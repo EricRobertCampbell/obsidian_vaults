@@ -1,0 +1,6 @@
+- Best-known [[Mosasaurs|Mosasaur]] in western North America
+- Collected from Saskatchewan and Alberta
+- Also found through the mining of [[Ammolite]]
+- We have a bit of a growth series for the species
+	- Skull: 72cm -> 100cm -> 110-120cm
+	- Helpful - each fossil is a snapshot -> more of them gives us more information

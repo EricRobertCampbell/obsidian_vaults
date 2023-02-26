@@ -1,0 +1,1 @@
+Like a [[Bivalve]], but have have an upper and lower shell (instead of right and left)

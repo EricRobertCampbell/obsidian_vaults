@@ -1,0 +1,1 @@
+[[Saurithiscia]] - [[Therapoda]] - [[Tyrannosauridae]] - [[Albertosaurinae]]

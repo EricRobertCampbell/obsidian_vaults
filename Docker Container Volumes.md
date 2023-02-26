@@ -1,0 +1,4 @@
+- Normally, when you destroy a container all of the data and file changes are also destroyed
+- Also, if you change a file in one container then other containers, even ones built from the same image, won't see it
+- Container volumes change this
+- 
