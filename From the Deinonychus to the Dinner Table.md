@@ -23,9 +23,9 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 - Dinosaur family tree:
 - ![[Pasted image 20230219124639.png]]
 - Dinosaur ancestor in the [[Triassic]]
-- Two major groups of [[Dinosaur]]:
+- Two major groups of [[Dinosauria|Dinosaur]]:
 	- [[Ornithiscia|Ornithiscian]] (bird-hipped)
-	- [[Saurithiscia|Saurithiscian]] (lizard-hipped)
+	- [[Saurischia|Saurischian]] (lizard-hipped)
 - What clues are there that birds are dinosaurs?
 	1. Feathers
 		- Lots of dinosaurs had feathers

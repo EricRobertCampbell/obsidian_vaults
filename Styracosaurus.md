@@ -1,1 +1,1 @@
-- [[Ornithiscia]] - [[Ceratopsia]] - [[Ceratopsidae]] - [[Centrosaurinae]] - [[Eucentrosaurinae]]
+[[Dinosauria|Dinosauria]] - [[Ornithiscia]] - [[Ceratopsia]] - [[Ceratopsidae]] - [[Centrosaurinae]] - [[Eucentrosaurinae]]

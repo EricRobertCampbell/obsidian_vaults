@@ -1,0 +1,1 @@
+Muscle that moves a limb or whatnot toward the midline of the body

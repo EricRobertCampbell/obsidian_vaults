@@ -6,8 +6,7 @@
 - Deciding to reject or accept your change
 
 This chapter covers A/B Testing - simplest and most widely used kind of experiment
-![image.png](attachment:0fb7a0e9-b43c-4755-91b2-711504a6c35d.png)
-
+![[02-01.png]]
 - Design: How many measurements to take? Taking multiple measurements (replication) reduces the natural variation in the results
 - Measure: important to randomize as many things as possible to avoid bias
 - Analyze: decide whether to switch to version B or not
@@ -20,7 +19,6 @@ Example: trading system
 Imagine you're a quant developing a trading system. The system takes in orders and executes them. You want ot minimize the transaction costs - this is the business metric. A simple change is to buy the shares on a different exchange. At present, you trade on ASDAQ - version A. You are considering switching to BYSE - version B.
 
 Let's simulate this!
-
 
 ```python
 import numpy as np
@@ -36,19 +34,12 @@ def trading_system(system):
     return execution_cost
 ```
 
-
 ```python
 # trying it out
 trading_system("ASDAQ"), trading_system("BYSE")
 ```
 
-
-
-
     (11.046692407118167, 9.638294054698875)
-
-
-
 
 ```python
 # Taking a bunch of different measurements:
@@ -61,13 +52,9 @@ ax.hist(byse_results, label="BYSE")
 ax.legend()
 ```
 
-    
 ![png](experimentation_output_3_1.png)
-    
-
 
 To get a feel for this, let's take the average over 100 different measurements for each exchange:
-
 
 ```python
 np.random.seed(17)
@@ -80,8 +67,6 @@ print(
 
     12.111509794247766 10.008382946497413
 
-
-
 ```python
 # a second time
 print(
@@ -89,16 +74,13 @@ print(
     np.array([trading_system("BYSE") for _ in range(100)]).mean(),
 )
 ```
-
     11.880880186907996 9.99591773728191
-
 
 Again, BYSE seems to have the lower execution cost.
 
 **Bias**
 
 Since you'll need to take lots of measurements, you decide to do the BYSE measurements in the morning, then take lunch, then take the ASDAQ ones. Unfortunately, you don't know that all trades are cheaper in the afternoon (due to market dynamics). Let's add this to our simulation:
-
 
 ```python
 def trading_system_tod(exchange, time_of_day):
@@ -109,8 +91,9 @@ def trading_system_tod(exchange, time_of_day):
     return bias + trading_system(exchange)
 ```
 
-We've just introduced *sampling bias*: indicating that taking a measurement (or sampling) under different conditions will yield different results.
+We've just introduced [[Sampling Bias|*sampling bias*]]: indicating that taking a measurement (or sampling) under different conditions will yield different results.
 
+When you apply a bias like this consistently to different versions of the system, you call it [[Confounder Bias|*confounder bias*]]
 
 ```python
 np.random.seed(17)
@@ -119,12 +102,9 @@ print(
     np.array([trading_system_tod("ASDAQ", "afternoon") for _ in range(100)]).mean(),
 )
 ```
-
     14.611509794247766 12.008382946497411
 
-
 Thus, if we go ahead with our plan, we might get results like the following:
-
 
 ```python
 np.random.seed(17)
@@ -136,15 +116,12 @@ print(
 
     12.611509794247766 
      12.008382946497411 
-    
-
 
 If we didn't know, then we would get the wrong conclusion!
 
 When a bias is applied differently (and consistently) to two different versions of a system, that is called *confounder bias*.
 
 A simple trick to remove confounder bias is *randomization*. In this case, we might do this by still running tests in the morning and afternoon, but every time you make a trade you flip a coin to choose whether it is ASDAQ or BYSE.
-
 
 ```python
 def randomized_measurement():
@@ -159,26 +136,19 @@ def randomized_measurement():
     return np.array(asdaq_measurement).mean(), np.array(byse_measurement).mean()
 ```
 
-
 ```python
 np.random.seed(17)
 randomized_measurement()
 ```
 
-
-
-
     (13.39588870623852, 11.259639285763223)
-
-
 
 This correctly shows that ASDAQ is more expensive than BYSE.
 
 By randomizing, we removed the effect of the bias. The especially nice thing is that we don't actually need to know about the bias to remove it via randomization. As long as we randomized everything we can, the bias disappears.
 
-
 ## Take a precise measurement
-Variation is unpredictable and out of our control, but that doesn't mean taht there's nothing you can do about it. Even though *sometimes* BYSE gives the better result, *usually* ASDAQ is.
+Variation is unpredictable and out of our control, but that doesn't mean that there's nothing you can do about it. Even though *sometimes* BYSE gives the better result, *usually* ASDAQ is.
 
 A concept that captures this is *expectation*. The expected value of the cost of ASDAQ and BYSE are different.
 
@@ -186,77 +156,51 @@ A concept that captures this is *expectation*. The expected value of the cost of
 
 We know a few facts about expectation:
 1. Measurement of a business metric are reliable near their expectation
-1. Future system performance is measured by expectation
-1. Expectaction is predictable
+2. Future system performance is measured by expectation
+3. Expectaction is predictable
 
 An average over multiple measurements is typically closer to the expectation than a single measurement.
 
 Thus, a better system to decide which exchange to trade on:
 1. Take multiple measurements
-1. Take the average
-1. Use whichever exchange has the lower average cost
+2. Take the average
+3. Use whichever exchange has the lower average cost
 
 This process of taking multiple measurements is called *replication*
-
 
 ```python
 np.random.seed(17)
 measurements = np.array([trading_system("ASDAQ") for _ in range(3)])
 print(measurements)
 ```
-
     [12.27626589 10.14537192 12.62390111]
-
-
 
 ```python
 # notice - close to the expectation
 measurements.mean()
 ```
-
-
-
-
     11.681846307513723
-
-
-
 
 ```python
 # measure the *deviation* of the individual measurements
 measurements - 12
 ```
-
-
-
-
     array([ 0.27626589, -1.85462808,  0.62390111])
-
-
-
 
 ```python
 # and the deviation of the mean:
 measurements.mean() - 12
 ```
-
-
-
-
     -0.3181536924862769
 
-
-
-We normally measure the deviation by the *standard deviation*: $\sigma = \sqrt{\sum (x - \bar{x})^2}$
+We normally measure the deviation by the *standard deviation*: $\sigma = \sqrt{\frac{\sum (x - \bar{x})^2}{n}}$
 
 We can also use the built-in numpy .std() function.
 
-![image.png](attachment:4c6f5c19-654c-4141-96d2-d526b2ecb709.png)![image.png](attachment:8b7a5722-6acb-4ec1-ac66-1016b8e5ff90.png)
-
+![[02-03.png]]
 As we add more measurements to the aggregate, we get values that are closer and closer to the actual mean.
 
 We say that an aggregate measurement is more *precise* if it is closer to the true value. By increasing the number of measurements, we improve the *precision*.
-
 
 ```python
 def aggregate_measurements(exchange, num_measurements):
@@ -268,15 +212,16 @@ def aggregate_measurements(exchange, num_measurements):
     return individual_measurements.mean()
 ```
 
-If we repeat this 1000 times, we get the following result:
-![image.png](attachment:2825b95a-f91b-44c0-a49a-3aa555446df7.png)!
+![[02-04.png]]
 
-Next, we'll take a look at the standard deviation and call it the *standard error*.
+If we repeat this 1000 times, we get the following result:
+
+![[02-05.png]]
+Next, we'll take a look at the standard deviation and call it the [[Standard Error|*standard error*]].
 
 **Standard Error**
 
 We can see how much replication reduces the standard deviation:
-
 
 ```python
 np.random.seed(17)
@@ -287,9 +232,7 @@ agg_300 = np.array([aggregate_measurements("ASDAQ", 300) for _ in range(1000)])
 
 print(agg_3.std(), agg_30.std(), agg_300.std())
 ```
-
     0.5721786019484487 0.18071680926647696 0.05808839858239513
-
 
 We usually refer to the standard deviation of an aggregate measurement as the *standard error*. If we know the standard error (SE), then in some sense we know how far the values can stray from the expectation.
 
@@ -303,7 +246,6 @@ We often use te following notation:
 - `sd_1`: $\sigma$
 - SE: $\frac{\sigma}{\sqrt{N}}$
 
-
 ```python
 # more complete aggregate measurements:
 def aggregate_measurements_with_se(exchange, num_individual_measurements):
@@ -314,7 +256,6 @@ def aggregate_measurements_with_se(exchange, num_individual_measurements):
     return aggregate_measurement, se
 ```
 
-
 ```python
 np.random.seed(17)
 
@@ -324,7 +265,6 @@ print(aggregate_measurements_with_se("BYSE", 300))
 
     (12.000257642551059, 0.060254756364981225)
     (10.051095649188758, 0.05714189794415452)
-
 
 From this, we can claim that BYSE is better - the range of its value + se is less than the value for ASDAQ - se (there is no overlap there)
 
@@ -342,10 +282,8 @@ To figure out how many measurements to take, we'll start from the back
 ### Analyze your measurements
 
 At this point, you have all of your measurements. When making the decision, we try to 'probably not be wrong'. 
-![image.png](attachment:619ed282-494d-4732-ae00-4ef8dd0d7168.png)
-
+![[02-06.png]]
 To make the analysis simpler, let's explicitly set `delta` as the difference between the aggregate measurements for ASDAQ and BYSE
-
 
 ```python
 np.random.seed(17)
@@ -359,18 +297,17 @@ se_delta = np.sqrt(se_byse**2 + se_asdaq ** 2)
 
 A / B testing logic works like this:
 1. Assume that the difference is 0 (delta = 0)
-1. If the measurement of delta is very unlikely (<5%) if delta=0, then assume that delta is not zero.
+2. If the measurement of delta is very unlikely (<5%) if delta=0, then assume that delta is not zero.
 
 For convenience, we usually work with the $z$ score, `delta / se_delta`. This then makes the standard deviation 1.
 
 Here;s the intuition as to how we're going to calculate the probability. $z \sim N(0, 1)$.
-![image.png](attachment:e2c33b03-59a2-48d7-8097-f302fc7476d8.png)
-
+![[02-08.png]]
 When this happens, we say that the result is *statistically significant*
 
-When the bet is wrong ($z$ falls to the left of the line but delta isn't actually 0), we say that it's a *false positive*. By design, we will get false positives 5% of the time.
+When the bet is wrong ($z$ falls to the left of the line but delta isn't actually negative), we say that it's a *false positive*. By design, we will get false positives 5% of the time.
 
-The dashed line is at -1.64 ($z \sim N(0, 1)$ by the *Central Limit Theorem*)
+The dashed line is at -1.64 ($z \sim N(0, 1)$ by the [[Central Limit Theorem|*Central Limit Theorem*]])
 
 So, we use it like this: if $z < -1.64$, act as if BYSE is better than NYSE; otherwise, behave as though they are equal.
 
@@ -380,8 +317,7 @@ Another thing to keep in mind: statistical significance != practical significanc
 
 We want to be able to tell that if the difference is great enough to be significant, we'll be able to tell.
 
-![image.png](attachment:7580dd4b-5ea8-46b9-866b-bac31c3b4c82.png)
-
+![[02-09.png]]
 For statistical significance, we want $z < -1.64$. But `z = delta / se_delta` and `se_delta = np.sqrt(se_byse**2 + se_asdaq**2)`.
 
 Standard error of a statistical measurement is `se = sd_1 / np.sqrt(num_ind)` where `sd_1` is the standard deviation of the individual measurements. Similarly,
@@ -406,7 +342,6 @@ We can estimate `sd_1_delta` in a couple of ways:
 1. Take the standard deviation of the existing measurements. You've been trading on ASDAQ, so you can grab the standard deviation from there. You can assume that the standard deviation of BYSE is the same -> `sd_1_delta = np.sqrt(2 * sd_1_asdaq ** 2)`
 1. If you have reason to suspect that the differences will be large, you can run a small-scale pilot study just for the purpose of getting the std.
 
-
 ```python
 # experimental design
 def ab_test_design(sd_1_delta, prac_sig):
@@ -417,45 +352,24 @@ np.random.seed(17)
 sd_1_asdaq = np.array([trading_system("ASDAQ") for _ in range(100)]).std() # estimating from the production logs
 sd_1_asdaq
 ```
-
-
-
-
     1.120781531568485
-
-
-
-
+	
 ```python
 # estimating sd_1_delta
 sd_1_byse = sd_1_asdaq
 sd_1_delta = np.sqrt(sd_1_asdaq ** 2 + sd_1_byse ** 2)
 sd_1_delta
 ```
-
-
-
-
     1.5850244424014406
-
-
-
 
 ```python
 prac_sig = 1 # determined from business use
 ```
 
-
 ```python
 ab_test_design(sd_1_delta, prac_sig)
 ```
-
-
-
-
     7.0
-
-
 
 This tells us that if we take 7 measurements from each exchange, there's a 5% chance that we'll see a significant result if there's really no difference.
 
@@ -476,11 +390,17 @@ The asymmetry reflects the fact that we have a greater aversion to doing damage 
 
 Assume that we run the test and use the rule "If z < -1.64, switch from ASDAQ to BYSE". 
 
-![image.png](attachment:4581e541-66d8-4581-bcbf-6e738f5e1dc1.png)
+![[02-10.png]]
 
 You can look up that to the right of 0.84 is 20%. Call the expectation in this case `-z0`. Then the two requirements for the line (where we decide to switch) are
 1. It must be at 1.64 on the left of $z=0$, where that is the expectation where ASDAQ and BYSE are the same
 1. It must be 0.84 to the right of the expectation of the distribution where BYSE is cheaper than ASDAQ. This limits the false negative rate.
+
+> This part is very confusing to me. In everything else I've found, you specify the power (1 - false negative rate) by first deciding on a reasonable effect size, and then going from there. *I think* that the author is doing almost the opposite:
+> We know where the line needs to be to have 5% of the distribution less than that line
+> Hypothesise *another* normal curve with mean at $z_0$. Then we want to fix $z_0$ such that *if that is the effect size*, we have a power of 80% (false negative rate of 20%).
+> Then we do the calculation to find $z_0$, and from there get the number of participants to get that false negative rate.
+> This all seems a bit suspect to me - it seems somehow like we're reasoning ourselves in a circle here, starting from the rate, then the effect size, then back to the rate...
 
 For both to be true, we have $0 - 1.64 = -z0 + 0.84 \to z0 = 2.48$. Then we need to write num_ind in terms of z0. First, recall that z = delta / se_delta. Then z0 is a specific value of delta -> z0 = delta0 / se_delta. Let delta0 be the smallest difference we care about: prac_sig. That means that delta0 <= -prac_sig. Since z0 = delta0 / se_delta, z0 <= prac_sig / se_delta. Consideration of false negative rates in this way is called **power analysis**. 
 
@@ -495,13 +415,11 @@ so then num_ind >= (2.48 * sd_1_delta / prac_sig) ** 2
 
 Compared to the earlier way, notice that we've just changed the 1.64 -> 2.48:
 
-
 ```python
 def ab_test_design_2(sd_1_delta, prac_sig):
     num_individual_measurements = (2.48 * sd_1_delta / prac_sig) ** 2
     return np.ceil(num_individual_measurements)
 ```
-
 
 ```python
 np.random.seed(17)
@@ -511,13 +429,7 @@ sd_1_delta = np.sqrt(sd_1_asdaq ** 2 + sd_1_byse ** 2)
 prac_sig = 1
 ab_test_design_2(sd_1_delta, prac_sig)
 ```
-
-
-
-
     16.0
-
-
 
 So this more stringent test formulation requires 16 trades on each exchange.
 
@@ -525,8 +437,7 @@ So this more stringent test formulation requires 16 trades on each exchange.
 
 Now let's take the measurements and analyze them
 
-![image.png](attachment:40611f56-10b4-4c9d-9e5a-555676de29a9.png)![image.png](attachment:ec1e9a7e-dfde-4769-a0d2-9c2cd99d0d7f.png)
-
+![[02-11.png]]
 
 ```python
 def measure(min_individual_measurements):
@@ -540,22 +451,14 @@ def measure(min_individual_measurements):
     return np.array(ind_asdaq), np.array(ind_byse)
 ```
 
-
 ```python
 np.random.seed(17)
 ind_asdaq, ind_byse = measure(16)
 ind_byse.mean() - ind_asdaq.mean()
 ```
-
-
-
-
     -2.7483767796620846
 
-
-
 Practically significant, since it is greater than `prac_sig=1`. Is it statistically significant? We need `z < -1.64`.
-
 
 ```python
 def analyze(ind_asdaq, ind_byse):
@@ -570,16 +473,9 @@ def analyze(ind_asdaq, ind_byse):
     return z
 ```
 
-
 ```python
 analyze(ind_asdaq, ind_byse)
 ```
-
-
-
-
     -6.353995237966593
 
-
-
-This result is both practically and statistically significant. Thus, we decide to switch our system to use BYSE, alhough we recognize that there's a 5% chance that we are doing the wrong thing.
+This result is both practically and statistically significant. Thus, we decide to switch our system to use BYSE, although we recognize that there's a 5% chance that we are doing the wrong thing.

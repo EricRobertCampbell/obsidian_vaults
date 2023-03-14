@@ -1,3 +1,3 @@
 ```dataview
-table title as Title, authors as Authors where contains(series, "Philip J. Currie Dinosaur Museum Speaker Series")
+table title as Title, authors as Authors, date as Date where contains(series, "Philip J. Currie Dinosaur Museum Speaker Series")
 ```

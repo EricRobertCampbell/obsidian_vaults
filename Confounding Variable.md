@@ -1,0 +1,1 @@
+One that influences both the independent and dependent variables - e.g. age when considering the effect of a drug on the progress of a disease.

@@ -19,6 +19,7 @@
 - [Hone - Books to Read to Become a Paleontologist](https://archosaurmusings.wordpress.com/2020/04/14/books-to-read-to-become-a-palaeontologist/)
 - [Hone - How to Become a Paleontologist](https://archosaurmusings.wordpress.com/2018/07/04/how-do-i-become-a-palaeontologist/)
 - [Reddit - Library of Paleontology Books](https://www.reddit.com/r/Paleontology/comments/g69bl1/library_of_paleontology_books/)
+- [Natural History Museum - How to Become a Paleontologist](https://www.nhm.ac.uk/discover/how-to-become-a-palaeontologist.html)
 
 
 ## Curriculum

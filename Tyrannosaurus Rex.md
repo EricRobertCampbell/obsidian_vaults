@@ -1,1 +1,1 @@
-[[Saurithiscia]] - [[Therapoda]] - [[Tyrannosauridae]] - [[Tyrannosaurinae]]
+[[Saurischia]] - [[Therapoda]] - [[Tyrannosauridae]] - [[Tyrannosaurinae]]

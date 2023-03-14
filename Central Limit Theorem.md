@@ -1,0 +1,1 @@
+Basically: if you have a distribution wit mean $\mu$ and standard deviation $\sigma$, then if you take enough measurements, the standardized sample means will be normally distributed
