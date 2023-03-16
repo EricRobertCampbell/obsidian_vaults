@@ -1,0 +1,1 @@
+Object which has a `.next()` method which returns `{value: any; done: boolean}`
