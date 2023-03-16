@@ -31,7 +31,7 @@ Overview of the main marine reptiles ([[Ichthyosaurs]], [[Plesiosaurs]], and [[M
    - During the [[Cretaceous|cretaceous]], the water level was higher than now - [[Western Interior Seaway]] split North America into two ([[Laramidia]] and [[Appalachia]])
    ## Triassic Ichthyosaurs
    - During the [[Triassic]], most of the continents were all together - [[Pangaea]].
-   - [[Shonisaurus sikanniensis]] - giant ichtyosaur on display at the [[Royal Tyrrell Museum]]
+   - [[Shonisaurus sikanniensis]] - giant ichtyosaur on display at the [[Royal Tyrrell Museum of Paleontology]]
 	   - Largest marine reptile so far found
 	   - ~210 Ma old
 	   - ~21m long
