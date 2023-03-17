@@ -1,0 +1,1 @@
+Approximating a Bayesian posterior by a [[Normal Distribution]]

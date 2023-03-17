@@ -1,4 +1,5 @@
 - Put on by the [[Alberta Paleontological Society]]
+- Part of the [[Alberta Paleontological Society Symposium]] series
 
 ## Talks
 - [[The “Rasetti Stone” and the tree of life - A phylogenetic perch for the enigmatic Stenothecoida]]
@@ -12,3 +13,13 @@
 
 
 ## Posters
+- [[Bot-flies or not-flies—Eocene Green River Formation mystery fossils]]
+- [[Comparison of sclerobiont communities between three brachiopod host species from the Ordovician Fairview Formation]]
+- [[Classification and description of predatory repair scars]]
+- [[Geographic variability of enamel wear in Alberta tyrannosaurids - results of a quantitative analysis]]
+- [[Gogia-dominated grainstone, Middle Cambrian, Burgess Shale]]
+- [[Life history and age segregation in hadrosaurs - evidence from two Hypacrosaurus stebingeri Hadrosauridae - Lambeosaurinae bonebeds from Alberta and Montana]]
+- [[The Cretaceous palaeoenvironment of upper Wapiabi Formation black shale]]
+- [[Comparison of Dracaena quadrate morphology to mosasaurioid squamates]]
+- [[Rapid and safe recovery of megavertebrate fossils from open pit ammolite mines in southern Alberta - Health and safety perspectives and applications]]
+- [[Industrial sedimentology - temporary excavations yield unique data]]
