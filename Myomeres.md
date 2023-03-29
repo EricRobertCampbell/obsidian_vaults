@@ -1,0 +1,1 @@
+Blocks of skeletal muscles arranged in sequence.

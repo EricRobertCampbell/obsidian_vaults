@@ -57,7 +57,7 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 - By the middle [[Ordovician]] we have more reefs and a more diverse set of reef builders
 - [[Rugose Corals]] - went extinct at the end of the [[Permian]]
 - Late [[Ordovician]] - [[Paleozioc]] fauna
-- Variety of filter feeding organisms: [[Bryozoans]] and [[Brachiopods]]
+- Variety of filter feeding organisms: [[Bryozoans]] and [[Brachiopoda]]
 - Another extinction at the end of the [[Ordovician]]
 
 ## Mid-Paleozoic Reefs
@@ -78,13 +78,13 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 ## Late Paleozoic Reefs
 - Characterized by
 	- Abundant calcified algae
-	- [[Brachiopods]]
+	- [[Brachiopoda]]
 	- Large [[Foraminifera]]
 	- [[Bryozoans]]
 	- Some [[Coral]]s
  - [[Pelagic]]
  - Characterized by a large diversiy of organisms
- - Non-colonial organisms (e.g. [[Crinoids]], [[Brachiopods]])
+ - Non-colonial organisms (e.g. [[Crinoids]], [[Brachiopoda]])
  - Huge extinction event at the end of the [[Permian]]
  - Basically eliminated all [[Coral]], [[Stromatoporoid]]s, and calcified algae
  - Dramatic warming and ocean acidification

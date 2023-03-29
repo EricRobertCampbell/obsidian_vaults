@@ -1,0 +1,3 @@
+- Founder of [[Korite Inernational]]
+- [[Albertonectes vanderveldei]] is named after him:w
+- 

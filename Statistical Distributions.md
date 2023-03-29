@@ -6,3 +6,4 @@
 -  [[Negative Binomial Distribution]]
 
 ## Continuous Distributions
+- [[Normal Distribution]]

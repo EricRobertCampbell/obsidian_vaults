@@ -1,0 +1,1 @@
+Group of muscles innervated by a single spinal nerve root

@@ -1,0 +1,2 @@
+- Laterstatte from [[China]]
+- Slightly earlier than the [[Burgess Shale]]
