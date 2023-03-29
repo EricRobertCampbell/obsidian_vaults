@@ -5,6 +5,8 @@ The programming language!
 
 ## Libraries, &c.
 - [[celery]]
+- [[Django]]
+- [[graphene-python]]
 - [[matplotlib]]
 - [[numpy]]
 - [[pandas]]
