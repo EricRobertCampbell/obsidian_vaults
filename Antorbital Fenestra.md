@@ -1,0 +1,10 @@
+- Opening anterior to the [[Orbit]]
+- Between the [[Maxilla]] and [[Lacrimal Bone]]
+- Often surrounded by [[Fossa]] and deeply impressed into the surrounding bones
+- One of the [[Dinosaur Synapomorphies]]
+- Houses an enormous sinus system
+- Unusually large in [[Saurischia]] but may be reduced or even closed in [[Ornithiscia]]
+- Some derived [[Therapoda]] have additional smaller openings associated with it
+	- [[Promaxillary formamen]]
+	- [[Maxillary foramen]]
+	- located within the [[Fossa]] anterior to the [[Antorbital Fenestra]]

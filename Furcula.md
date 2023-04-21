@@ -1,0 +1,1 @@
+- Fusion of the left and right [[Clavicle]] found in [[Therapoda]]

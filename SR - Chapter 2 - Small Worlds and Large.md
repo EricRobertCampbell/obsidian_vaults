@@ -79,7 +79,7 @@ This story is then translated into a formal probabilistic model.
 We do that with the data!
 
 **Evaluate**
-A Bayesian process can be proven to be the optimal way to update our beliefs, gievn the data, and _given that the model is an accurate description of reality_.
+A Bayesian process can be proven to be the optimal way to update our beliefs, given the data, and _given that the model is an accurate description of reality_.
 
 ## Components of the Model
 
@@ -96,10 +96,9 @@ Pr(W,L|p) = \frac{(W+L)!}{W!L!} p^W (1-p)^L
 $$
 
 We should read this as 
-> The counts of "water" W and "land" L are distributed binomially, with probability $p$ of "water" on each toss.
+> The counts of "water" W and "land" L are distributed [[Binomial Distribution|binomially]], with probability $p$ of "water" on each toss.
 
 We can easily calculate this in R:
-
 
 ```R
 dbinom(6, size=9, prob=0.5)
@@ -190,7 +189,7 @@ plot(p_grid, posterior2, xlab="Probability of Water", ylab="Posterior Probabilit
 
 ### Quadratic Approximation
 
-While grid approximations are ok as far as they go, but can become unwieldy as the number of parameters increases. Another approach that we can take is the *quadratic approximation*. This approach is to say that near the peak of the distribution, it _basically_ looks Gaussian, which means that we can kind-of sort-of approximate the entire distribution with a Gaussian. This is nice because the Gaussian can be described by only two numbers - the mean and the standard deviation. 
+While grid approximations are ok as far as they go, but can become unwieldy as the number of parameters increases. Another approach that we can take is the [[Quadratic Approximation]]. This approach is to say that near the peak of the distribution, it _basically_ looks Gaussian, which means that we can kind-of sort-of approximate the entire distribution with a Gaussian. This is nice because the Gaussian can be described by only two numbers - the mean and the standard deviation. 
 
 (It's called quadatic because the logarithm of the normal distribution is a parabola).
 
@@ -236,7 +235,7 @@ curve(dnorm(x, 0.67, 0.16), lty=2, add=TRUE)
 ![png](sr-chapter2-output_12_0.png)
 
 
-Thedotted line is the quadratic approximation; not great, but it gets better as you add more data.
+The dotted line is the quadratic approximation; not great, but it gets better as you add more data.
 
 This is actually pretty common for the normal distribution; stuff starts to look more like it the more data you add.
 

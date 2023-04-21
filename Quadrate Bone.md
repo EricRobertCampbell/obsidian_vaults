@@ -1,0 +1,2 @@
+- One of the primary bones of the [[Palate]]
+- Forms the articulation between the upper [[Skull]] and lower jaw

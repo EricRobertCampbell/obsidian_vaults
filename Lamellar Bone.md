@@ -1,0 +1,2 @@
+- More uniform, parallel microstrucure
+- Indicates slower growth

@@ -1,0 +1,3 @@
+- pl. carinae
+- Cutting edges of teeth
+- Sharf enamel riges loacted at the fron and back of the teeth

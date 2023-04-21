@@ -1,0 +1,1 @@
+- Interial nostrils which are continuous with the [[External Naris]]

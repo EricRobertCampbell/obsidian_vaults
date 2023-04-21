@@ -1,0 +1,1 @@
+The lower of the [[Temporal Fenestra]] in [[Diapsida]]

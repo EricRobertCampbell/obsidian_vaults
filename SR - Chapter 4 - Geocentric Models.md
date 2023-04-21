@@ -335,7 +335,7 @@ curve(dunif(x, 0, 50), from=-10, to=60)
     
 
 
-Now let's do a _prior prdeictive check_ --- that is, let's see what predictions our priors make:
+Now let's do a _prior predictive check_ --- that is, let's see what predictions our priors make:
 
 
 ```R
@@ -366,13 +366,11 @@ dens(prior_h)
 ![png](sr-chapter4-output_22_0.png)
     
 
-
 Here we see that lots of people are expected to have negative height, and others are much taller than the height of the tallest person ever recorded (272cm). Here we have lots of data, so having silly priors isn't that damaging, but that won't always be the case.
 
 ### Grid approximation of the posterior distribution
 
 Here's a way to do this with a grid approximation!
-
 
 ```R
 mu.list <- seq(from=150, to=160, length.out=100)
@@ -576,7 +574,7 @@ vcov(m4.1)
 
 We can decompose it into two elements:
 1. A vector of variances for the parameters, and
-1. A correlation matrix that tells us how changes in any parameter lead to correlated changes in the others.
+2. A correlation matrix that tells us how changes in any parameter lead to correlated changes in the others.
 
 
 ```R
@@ -1200,7 +1198,7 @@ str(sim.heights)
      num [1:1000, 1:46] 130 130 133 146 144 ...
 
 
-This is much like the earlier one, $\mu$, but contains sunmulated heights, not distributions of average heights.
+This is much like the earlier one, $\mu$, but contains simulated heights, not distributions of average heights.
 
 We can summarize these simulated heights in the same way we summarize the distributions of $\mu$, by using `apply`:
 

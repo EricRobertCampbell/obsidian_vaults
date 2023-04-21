@@ -69,7 +69,7 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 		- Carry a lot of dinosaur DNA
 		- Can mess with a chicken's genes to e.g. grow teeth, hands, bony tail, &c.
 		- Birds and crocodiles are much more closely related than we thought
-		- (Both are [[Archosaurs]])
+		- (Both are [[Archosauria]])
   
   
   

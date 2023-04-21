@@ -1,0 +1,8 @@
+- Also known as "Trabecular Bone" or "Spongy Bone"
+- Much lighter and more porous
+- Blood vessels flow through freely
+- Facilitates free movement of blood, cells, and nutrients
+- Primary roles:
+	- Regulate metabolic activity
+	- Substrate for creation of new blood cells
+- (In most vertebrates, it is filled with [[Marrow]])

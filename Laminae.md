@@ -1,0 +1,1 @@
+- Bony struts linking the processes of the [[Neural Arch]] and [[Centrum]]

@@ -1,0 +1,2 @@
+- Forms the border of the eye sockets
+- Holds the [[Lacrimal Duct]], which deliver tears to the eyes

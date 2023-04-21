@@ -1,0 +1,2 @@
+- Develop directly in the skin (or other membranous tissue) without a [[Cartilege]] precursor
+- Also known as "Membranous Bone"

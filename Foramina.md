@@ -1,0 +1,2 @@
+- Sing.: foramen
+- Holes in bones for blood vessels or nerves

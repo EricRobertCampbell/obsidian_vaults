@@ -1,0 +1,1 @@
+- Cartilagenous extensions anchoring the [[Sternum]] to the [[Dorsal Ribs]]

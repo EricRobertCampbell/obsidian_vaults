@@ -1,0 +1,4 @@
+- Worked at the [[Royal Tyrrell Museum of Paleontology]]
+- M.Sc.
+	- Advisor was Dr. [[Kirstin Brink]]
+- At [[University of Manitoba]]

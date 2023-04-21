@@ -5,7 +5,7 @@ It turns out that places with lots of Waffle House restaurants have a high divor
 - [[Multiple Regression]] - using more than one predictor variable to simultaneously model an outcome
 
 Reasons for multiple regression models include:
-1. Statistical controls for confounds. A _confound_ is something which misleads us about a causal influence (more precise definition later). The spurious waffles and divorce correlation is one kind of confound, where southernness makes a variable with no real importance (Waffle House density) appear important. There are other types.
+1. Statistical controls for [[Confounding Variable|confounds]]. A _confound_ is something which misleads us about a causal influence (more precise definition later). The spurious waffles and divorce correlation is one kind of confound, where southernness makes a variable with no real importance (Waffle House density) appear important. There are other types.
 2. Multiple and complex causation. A phenomenon may arise from multiple simultaneous causes, and causes can cascade in complex ways. And since one cause can hide another, they must be measured simultaneously.
 3. Interactions. The importance of one variable may depend upon another. For example, plants benefit from both light and water. However, in the absence of either, the other is no benefit at all. Such internactions occur very often. Effective interference about one variable will often depend upon consideration of others.
 

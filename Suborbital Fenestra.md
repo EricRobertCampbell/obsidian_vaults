@@ -1,0 +1,1 @@
+- Located between the [[Palatine Bone]] and [[Ectopterygoid Bone]]

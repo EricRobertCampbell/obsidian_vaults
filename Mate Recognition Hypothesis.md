@@ -1,0 +1,2 @@
+- Selection for positive recognition of mates could lead to increased differentiation of populations
+	- Eventually: greater rates of speciation

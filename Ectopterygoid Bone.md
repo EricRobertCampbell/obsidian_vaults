@@ -1,0 +1,1 @@
+- Small, hooked element which makes broad contact with the [[Jugal Bone]] to brace the [[Palate]] against the lateral wall of the [[Skull]]

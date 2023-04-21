@@ -98,7 +98,7 @@ Communities from the Late Cretaceous of North America are comprised a variety of
 	- In [[Ceratopsidae]] we see two other changes
 		- Juveniles:
 			- Larger [[Coronoid Process]] - apex distance
-			- Larger [[Quadrate]] breadth
+			- Larger [[Quadrate Bone]] breadth
 		- Decreasing relative resitance to torsion + attachment area - restiance to 'wobble'
 		- Decrease in relative bite force
 		- Again, a bit of a mixed signal
@@ -175,5 +175,5 @@ Communities from the Late Cretaceous of North America are comprised a variety of
 - Given that small dinosaur are so underrepresented, how do you account for bias in sampling?
 	- Good question
 	- Cool math (e.g. random samping)
-	- Can use [[Pachycephalosaur]] skulls as a proxy since they preserve so well
+	- Can use [[Pachycephalosaurs]] skulls as a proxy since they preserve so well
 	- Juvenile hadrosaurs are about the same size, so the bias probably applies the same to each

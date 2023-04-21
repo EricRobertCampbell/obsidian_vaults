@@ -1,0 +1,1 @@
+- [[Dermal Bone]] embedded in the skin

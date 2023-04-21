@@ -72,5 +72,5 @@ series: Alberta Paleontological Society Symposium
 - Next steps: more [[Strontium]] research!
 
 #### Q / A
-- This focused on the [[Enamel]] - otherpeople sampled the [[Dentin]]
+- This focused on the [[Enamel]] - otherpeople sampled the [[Dentine]]
 - Shale is composed of [[Bentonite]] - very good at excluding water

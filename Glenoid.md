@@ -1,0 +1,2 @@
+- Deep recession where the [[Scapula]] and [[Coracoid]] meet
+- Receives the head of the [[Humerus]]

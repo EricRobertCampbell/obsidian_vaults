@@ -16,6 +16,7 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 - 0.5% of the population, but 10% of the forested land and 20% of the freshwater resources
 - 2nd largest country -> lots of rocks!
 - Famous Canadian building stone:
+	- [[Tyndall Stone]]
 	- Tyndall limestone
 	- From Tyndall, Manitoba
 	- Contains fossils
@@ -26,7 +27,7 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 	 - 'Big Rock' of Okotoks, Alberta
 	 - Chunk of the [[Rocky Mountains]]
 	 - ~16,500 tonnes
-3. SOm of the world's oldest animals: [[Burgess Shale]]
+3. Some of the world's oldest animals: [[Burgess Shale]]
 	- In Yoho National Park
 	- Incredibly well preserved
 	- [[Opabinia regalis|Opabinia]]

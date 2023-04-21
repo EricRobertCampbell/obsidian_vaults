@@ -19,7 +19,7 @@ Overview of the main marine reptiles ([[Ichthyosaurs]], [[Plesiosaurs]], and [[M
 - Two categories of marine vertebrates:
 	- Primarily aquatic: fishes and sharks (today's live in the water and all of their descendants are too) - the entire evolutionary history in the water
 	- Secondarily aquatic
-		- ~375 Ma ago - some fish developed adaptions to go on land - [[tetrapods]].
+		- ~375 Ma ago - some fish developed adaptions to go on land - [[Tetrapoda]].
 		- aquatic organisms descended from tetrapods thatwent *back* to an aquatic lifestyle
   - Talk will focus on three of the groups of marine reptiles
 	  - [[Ichthyosaurs]]

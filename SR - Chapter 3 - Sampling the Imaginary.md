@@ -336,7 +336,7 @@ simplehist(dummy_w)
 ![png](sr-chapter3-output_39_0.png)
 
 ```R
-# Now let's try it with 9 tossed
+# Now let's try it with 9 tosses
 dummy_w <- rbinom(1e5, 9, 0.7)
 tabulated <- table(dummy_w) / 1e5
 tabulated
@@ -484,7 +484,7 @@ m1_posterior <- posterior
 ![png](sr-chapter3-output_56_0.png)
 
 ```R
-# 3M2 - Draw 10 000 samples from the prior calculated above. Then use the sampkes to calculate the 90% HPDI for p
+# 3M2 - Draw 10 000 samples from the prior calculated above. Then use the samples to calculate the 90% HPDI for p
 samples <- sample(p_grid, size=10000, prob=posterior, replace=T)
 plot(samples)
 ```

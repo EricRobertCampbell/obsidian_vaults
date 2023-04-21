@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "",
-  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\n---\n# {{title}}\n#### {{year}} - {{authorString}}\n**Link**: {{URL}}\n**DOI**: {{DOI}}\n**Links**:\n**Tags**: #paper\n\n## Abstract\n```\n{{abstract}}\n```\n\n## Notes\n",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\n---\n# {{title}}\n#### {{year}} - {{authorString}}\n**Link**: {{URL}}\n**DOI**: {{DOI}}\n**Links**:\n**Tags**: #paper\n\n## Abstract\n```\n{{abstract}}\n```\n\n## Notes\n\n## Next Steps / Ideas",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "My Library.bib"
