@@ -1,0 +1,4 @@
+- [Homepage](https://aws.amazon.com/textract/)
+- Basically - you upload a pdf, png, or jpeg and it extracts data from it
+- Document analysis based on [[Machine Learning]]
+- Seems to be a replacement for manual OCR and data entry
