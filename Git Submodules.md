@@ -1,0 +1,16 @@
+- [YouTube - Tutorial for Beginners](https://www.youtube.com/watch?v=gSlXo2iLBro)
+	- Similar to npm
+	- Bring one repository into another one
+	- ![[Pasted image 20230421093836.png]]
+	- Can we add the youtube-tutorials to git-submodule-tutorial at a certain version?
+	- Use it for sharing libraries
+		- Maybe you want things that the library authors don't expose
+		- Share a file between different projects with different package managers
+	- `git submodule add https://github.com/<user>/<repo>`
+	- `tree` command
+	- adds a `.gitmodules` file to keep track
+	- How can we add a dependency version?
+	- By default, [[git]] commands in the parent repository will ignore the submodules
+		- This includes pulls!
+		- `git submodule update --init` to load in all of the submodules
+		- When you're in the submodule directory, all of the git commands apply to the repository, not the parent one
