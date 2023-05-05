@@ -4,7 +4,7 @@
 - [[SR - Chapter 3 - Sampling the Imaginary]]
 - [[SR - Chapter 4 - Geocentric Models]]
 - [[SR - Chapter 5 - The Many Variables and the Suprious Waffle]]
-- [[SR - Chapter 6]]
+- [[SR - Chapter 6 - The Haunted DAG and the Causal Terror]]
 - [[SR - Chapter 7]]
 - [[SR - Chapter 8]]
 - [[SR - Chapter 9]]

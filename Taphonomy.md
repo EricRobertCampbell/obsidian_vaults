@@ -1,0 +1,1 @@
+- Study of all of the processes that occur between the death of an organism and its final state in the rock

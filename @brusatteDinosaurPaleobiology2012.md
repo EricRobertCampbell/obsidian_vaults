@@ -6,6 +6,7 @@ year: 2012
 # Dinosaur Paleobiology
 #### 2012 - Stephen L. Brusatte
 **Link**: https://www.wiley.com/en-ca/Dinosaur+Paleobiology-p-9780470656587
+**Authors**: [[Stephen L. Brusatte]]
 **DOI**: 
 **Links**:
 **Tags**: #paper #paleontology #dinosaur

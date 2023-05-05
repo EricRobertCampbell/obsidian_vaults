@@ -1,0 +1,2 @@
+- Small, (extinct) aquatic marine reptile found only on the coasts of [[Brazil]] and west [[Africa]]
+- Provided evidence for [[Continental Drift]]

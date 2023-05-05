@@ -1,0 +1,1 @@
+- Idea that continents and oceans move relative to each other

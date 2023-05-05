@@ -1,0 +1,1 @@
+- Way of optimizing over a continuous parameter (or continuous parameters)
