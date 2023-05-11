@@ -28,3 +28,11 @@ I will also provide my “bucket list” of locations of stromatolites which I s
 ```
 
 ## Notes
+- [[Shark Bay]], [[Australia]]
+- Only a few living examples, mostly in marginal environments
+- Why? Probably because there are too many predators eating the sheets
+- [[Thrombolite]] - clotted vs. accretionary structures
+- Nice ones: Helen Lake, Banff National Park
+- "Go Take a Hike" - book with hiking and geology
+- "Rocks, Rivers, and Ridges - geological .... of ...."
+- "The Scenic Geology of Alberta" - Leckie

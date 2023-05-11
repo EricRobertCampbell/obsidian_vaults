@@ -4,7 +4,7 @@
 - One of the [[Dinosaur Synapomorphies]]
 - Houses an enormous sinus system
 - Unusually large in [[Saurischia]] but may be reduced or even closed in [[Ornithiscia]]
-- Some derived [[Therapoda]] have additional smaller openings associated with it
+- Some derived [[Theropoda]] have additional smaller openings associated with it
 	- [[Promaxillary formamen]]
 	- [[Maxillary foramen]]
 	- located within the [[Fossa]] anterior to the [[Antorbital Fenestra]]

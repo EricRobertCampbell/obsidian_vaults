@@ -20,3 +20,23 @@ communities.
 ```
 
 ## Notes
+- [[Wapiti Formation]] - spans about 9 million years ([[Campanian]] - [[Maastrichtian]])
+- "Bearpaw Gap" - no [[Dinosauria]] because the [[Bearpaw Sea]] covered that part of southern [[Alberta]]
+- Has good soft-tissue preservation
+- Also footprints and trackways
+- ~4000 fossils collected from the site
+- [[Pachyrhinosaurus]]
+	- Lakustri?
+	- Canadensis
+	- ??????
+- Gives insight into boreal [[Dinosauria]]
+- Snapshot of a single herd at a time - adults, juveniles, &c.
+- Allows study of variation, ontogeny
+- 2022 discoveries
+	- Lots of [[Parietal Bone]]
+	- Lots of variation in the [[Parietal Bone]]
+	- Surprise in the caprock - thought that there were no fossils there, but thre was a bone sticking into it!
+- Continuing questions about boreal dinosaur paleoecology
+	- What did they eat in the winter
+	- Did they migrate?
+- [[Bergmann's Rule]] - but northern dinosaurs seem to be smaller, not larger?

@@ -1,2 +1,2 @@
 Genus
-- [[Therapoda]] - [[Paraves]] - [[Archaeopterygidae]]
+- [[Theropoda]] - [[Paraves]] - [[Archaeopterygidae]]

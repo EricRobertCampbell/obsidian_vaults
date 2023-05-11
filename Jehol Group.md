@@ -1,0 +1,7 @@
+- [[Liaoning]], [[China]]
+- Early [[Cretaceous]]
+- [[Lagerstatte]]
+- Lithographic [[Limestone]]
+- [[Lacustrine]]
+- Area was periodically innundated with volcanic ash, killing and preserving everything living in the area
+- Lots of soft-body impressions, including of [[Sinosauropteryx]]

@@ -8,7 +8,7 @@ year: 2023
 **Link**: https://www.manning.com/books/experimentation-for-engineers
 **DOI**: 
 **Links**:
-**Tags**: #paper #statistics #bayesian #abtesting
+**Tags**: #book #statistics #bayesian #abtesting
 
 ## Chapters
 - [[Optimizing Systems by Experiment|Chapter 1 - Optimizing Systems by Experiment]]

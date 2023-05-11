@@ -1,3 +1,3 @@
 genus
-[[Therapoda]] - [[Oviraptoridae]] - [[Oviraptorinae]]
+[[Theropoda]] - [[Oviraptoridae]] - [[Oviraptorinae]]
 Lived in Asia during the late Cretaceous (75 - 71 Ma)

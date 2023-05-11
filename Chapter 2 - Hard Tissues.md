@@ -149,7 +149,7 @@
 - In all but the most primitive dinosaurs, they only arise from the [[Premaxilla]], [[Maxilla]], and [[Dentary Bone]]
 - Outer sheath of [[Enamel]] and an inner core of [[Dentine]]
 - Replaced continuously thoughout the life of the animal
-- [[Therapoda]] has simple, balde like teeth fro cutting through the flesh of their prey
+- [[Theropoda]] has simple, balde like teeth fro cutting through the flesh of their prey
 	- Usu. thin in the mediolateral direction
 	- Recurved at the tip
 	- Serrations
@@ -213,13 +213,13 @@
 - [[Saurischia]]:
 	- Often have a set of accessory articulations below the [[Zygapophyses]], the [[Hyposphene]] and [[Hypantrum]], to strengthen the union between adjacent vertebrae
 	- [[Sauropoda]] retain elongate [[Centrum|centra]] and their [[Neural Arch]] is reduced to a maze of [[Laminae]]
-	- Some [[Sauropoda]] and [[Therapoda]] have extremely elongate [[Neural Spine]], possibly for sails
+	- Some [[Sauropoda]] and [[Theropoda]] have extremely elongate [[Neural Spine]], possibly for sails
 - [[Dorsal Vertebrae]] of [[Stegosauria]] are immediately recognized by the extreme elongation of the [[Neural Arch]], which looks like a normal one has been pulled like taffy
 - [[Sacral Vertebrae]] link the backbone to the [[Pelvis]]
 	- Important for supporting body weight and strengthening the trunk region
 	- Ancestor likely had 2 - 3 [[Sacral Vertebrae]], and most retain 3
 	- Several group increased this number, usu. by adding [[Vertebrae]] from the [[Dorsal Vertebrae]] or [[Caudal Vertebrae]]
-		- [[Stegosauria]], [[Ankylosauria]], [[Sauropoda]], [[Therapoda]], and primitive [[Ornithopoda]] have 4 - 7
+		- [[Stegosauria]], [[Ankylosauria]], [[Sauropoda]], [[Theropoda]], and primitive [[Ornithopoda]] have 4 - 7
 		- Some [[Ceratopsia]]: 10
 		- Some [[Hadrosauridae]]: 12
 		- Unclear why so many are needed, but probably helped to stabilize the pelves and added rigidity to the backbone
@@ -228,7 +228,7 @@
 - [[Caudal Vertebrae]]
 	- Ancestrally: about 50
 	- Huge amounts of variability in size, shape, &c.
-	- [[Therapoda]]: general trend to decrease the size of the tail
+	- [[Theropoda]]: general trend to decrease the size of the tail
 		- Most extreme in birds, where the fused remnants of the [[Caudal Vertebrae]] form the [[Pygostyle]]
 	- Primitively quite flexible, but several groups evolved greater rigidity
 		- [[Dromaeosauridae]] evolved elongate [[Prezygapophyses]] which extend as reinforcing rods along 10 - 12 adjoining [[Caudal Vertebrae]]
@@ -251,7 +251,7 @@
 	- In [[Saurischia]] are extremely long, thin, and delicate - parallel the contours of the neck
 - [[Dorsal Ribs]] are longer and more robust, and are outwardly convex to house the viscera
 - In many [[Saurischia]] air sacs extend into the ribs -> the are hollow and pierced by pneumatic formamina
-- Some derived [[Therapoda]] and some [[Ornithiscia]] - ribs develop a plate-like flange, the [[Uncinate Process]], which overlaps the adjacent rib
+- Some derived [[Theropoda]] and some [[Ornithiscia]] - ribs develop a plate-like flange, the [[Uncinate Process]], which overlaps the adjacent rib
 	- For an en echelon structure which overlaps like shingles on a roof
 	- Adds rigidity
 	- May be important to supporting trunk muscles and supporting the avian breathing apparatus
@@ -279,7 +279,7 @@
 		- Lateral elements which abut the ourside edge of each medial bone
 		- Conjoined left and right medial elements usu. overlap with the medial elements of the two adjacent rows perteriorly and anteriorly
 		- All individual [[Gastralia]] are connected to each other, permitting the [[Gastral Cuirass]] to act as a single unit
-- In some, espec. [[Therapoda]], the [[Gastralia]] may have been the primary control on the size and shape of the trunk cavity and may have helped to power the [[Avian Respiratory System|avian-like respiratory system]]
+- In some, espec. [[Theropoda]], the [[Gastralia]] may have been the primary control on the size and shape of the trunk cavity and may have helped to power the [[Avian Respiratory System|avian-like respiratory system]]
 
 ## The Dinosaur Appendicular Skeleton
 - [[Pectoral Girdle]] (shoulder) and [[Pelvic Girdle]] (hip) and the limbs associated with them
@@ -301,7 +301,7 @@
 	- Critical components of the shoulder of living [[Aves|birds]]
 	- Uncommon in [[Dinosauria]], but that probably reflects preservation bias rather than true absence
 	- Some have been found with paired left and right [[Clavicle]], which is the normal [[Tetrapoda]] condition (incl. with humans)
-	- [[Therapoda]] have a unique condition where the left and right [[Clavicle]] are fused to form a V-shaped [[Furcula]]
+	- [[Theropoda]] have a unique condition where the left and right [[Clavicle]] are fused to form a V-shaped [[Furcula]]
 	- [[Sternum]] usu. a thin, plate-like element along the midline of the chest which is attached to the adjacent [[Dorsal Ribs]] by a series of cartilagenous extensions, the [[Sternal Ribs]]
 	- Living [[Aves|birds]] have a distinctive large, robust, and keeled [[Sternum]] related to the mechanics of flight
 		- Even the most bird-like [[Dinosauria]] lack this
@@ -313,21 +313,21 @@
 - Meets the [[Radius]] and [[Ulna]] at the elbox joint
 	- [[Ulna]] is usu. larger
 		- Often has a pronounced [[Olecranon Process]] - process which extends beyond the elbox joint and serves as an attachment point for muscles which extend the arm outward
-		- In derived [[Therapoda]] (and living [[Aves|birds]]), anchors large feathers whose attachment points are represented by small bumps (quill knobs)
+		- In derived [[Theropoda]] (and living [[Aves|birds]]), anchors large feathers whose attachment points are represented by small bumps (quill knobs)
 - Articulation between the forelimb and hand is complex
 	- Several [[Carpal Bones]], whose number and size vary
 	- In lage quadrupedal dinosaurs (e.g. [[Sauropoda]], [[Ornithopoda]]) the [[Carpal Bones]] are large, strong, and blocky
 	- In bipedal [[Dinosauria]] (where they don't support the weight of the dinosaur), they are often small and can be unossified
-	- Derived [[Therapoda]] have a very flexible wrist and can move their hand in a wide arc, due to the pulley-like arrangement of wrist bones
+	- Derived [[Theropoda]] have a very flexible wrist and can move their hand in a wide arc, due to the pulley-like arrangement of wrist bones
 		- Apogee in birds, where they can fold the entire hand (wind) against the body
 - Hand ([[Manus]]) is composed of a set of [[Metacarpals]] and their corresponding digits
 	- Digits are numbered I - V
 		- I is the most medial ('thumb') and V the most lateral ('pinky')
 	- Form of the [[Metacarpals]] and digits varies depending on quadruped or biped
 		- Bipedal: mostly have gracile hands adapted to grasping
-		- [[Therapoda]]: tendency to reduce digits in the hand
+		- [[Theropoda]]: tendency to reduce digits in the hand
 			- Basal species have 4 - 5
-			- Most [[Therapoda]] have 3
+			- Most [[Theropoda]] have 3
 			- [[Tyrannosauridae]] have 2
 			- [[Alvarezsauridae]] have only 1!
 		- Quadruped:
@@ -336,7 +336,7 @@
 			- Individual [[Metacarpals]] and [[Phalanges]] are often shorter, heftier, and arranged in a tight arc
 				- To support the body weight
 			- Generally have longer forelimbs
-				- Derived [[Therapoda]] exhibit a lengthening of the hand (e.g. [[Aves]] - large wings)
+				- Derived [[Theropoda]] exhibit a lengthening of the hand (e.g. [[Aves]] - large wings)
 
 ### Pelvic Girdle
 - Three different bones: [[Ilium]], [[Ischium]], and [[Pubis]]
@@ -359,7 +359,7 @@
 		- These regions are the [[Obturator Plates]]
 		- Pubic [[Obturator Plates]] has a long contact with that of the [[Ischium]] below it, helping to buttress the hip joint
 		- Distally, the [[Pubis]] and [[Ischium]] taper into a long shaft
-		- In some, most prominently large [[Therapoda]] like [[Tyrannosaurus Rex]], the distal end of one or both is expanded into a foot-like structure: the [[Pubic Boot]] or [[Ischial Boot]]
+		- In some, most prominently large [[Theropoda]] like [[Tyrannosaurus Rex]], the distal end of one or both is expanded into a foot-like structure: the [[Pubic Boot]] or [[Ischial Boot]]
 		- In [[Ornithiscia]] the [[Ischium]] and [[Pubis]] lay against each other
 			- Also: novel flange, the [[Prepubis Process]], extends anteriorly form the [[Obturator Plates]] immediately in front of the [[Acetabulum]]
 
@@ -374,7 +374,7 @@
 	- Bowed anteriorly in fast [[Dinosauria]], but straight and columnar in larger species
 	- Distally, joins the [[Tibia]] and [[Fibula]] at the knee joint
 	- As far as we can tell, they did not have a kneecap bone ([[Patella]])
-	- [[Tibia]] is much larger than the [[Fibula]], reaching an extreme in derived [[Therapoda]] and [[Aves|birds]] where the [[Fibula]] is a toothpick-like splint
+	- [[Tibia]] is much larger than the [[Fibula]], reaching an extreme in derived [[Theropoda]] and [[Aves|birds]] where the [[Fibula]] is a toothpick-like splint
 - [[Tarsus]] of [[Dinosauria]] is composed of two different sets of bones
 	- Large and more important [[Proximal Tarsals]] ([[Astragalus]] and [[Calcaneum]])
 	- Smaller and more disc-like [[Distal Tarsals]] that cap the proximal surface of the [[Metatarsals]]

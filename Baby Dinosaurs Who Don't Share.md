@@ -49,7 +49,7 @@ Communities from the Late Cretaceous of North America are comprised a variety of
 		- Negative allometry: grows slower than the overall size
 		- Positive allometry: grows faster than the overall size
 - What about in [[Dinosauria]]
-	- Yes - [[Limusaurus]] (A [[Therapoda]])
+	- Yes - [[Limusaurus]] (A [[Theropoda]])
 		- Loss of teeth with growth
 		- Thoughts: young are omnivorous, then lose their teeth and become herbivorous
 	- [[Tyrannosaurus Rex]] 

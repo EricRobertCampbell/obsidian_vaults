@@ -1,1 +1,1 @@
-[[Dinosauria]] - [[Saurischia]] - [[Therapoda]] - [[Tyrannosauridae]] - [[Albertosaurinae]]
+[[Dinosauria]] - [[Saurischia]] - [[Theropoda]] - [[Tyrannosauridae]] - [[Albertosaurinae]]
