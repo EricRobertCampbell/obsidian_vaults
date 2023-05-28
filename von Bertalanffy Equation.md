@@ -1,0 +1,2 @@
+- Kind of growth model
+- [Wikipedia](https://en.wikipedia.org/wiki/Von_Bertalanffy_function)

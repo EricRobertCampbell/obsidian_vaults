@@ -12,6 +12,7 @@ series: Alberta Paleontological Society Talks
 **tags**: #talk #paleontology 
 
 ## Summary
+Wow, this was a great talk! Dr. Gilbert was super enthusiastic and a great lecturer!
 
 ## Abstract
 ```
@@ -19,3 +20,14 @@ The Eocene to Miocene Cypress Hills Formation (CHF) spans 28 million years, form
 ```
 
 ## Notes
+- [[Cypress Hills]] - high elevation plateau
+- Tops are covered in [[Conglomerate]] - evidence of a high-energy depositional environment
+	- Also: apparently [[Conglomerate]] is resistant to erosion
+- [[Zygomatic Bone]]
+- [[Conglomerate]] is evidence for thick, braided mountain stream
+- Cross-bedded [[Sandstone]]
+- Also ripple-bedded [[Sandstone]]
+- Overbanks
+- Igneous intrusions in Montana - lifted the whole area up, creating the slope for the high energy depositional environment observed
+- [[Cenogram]] - rank the animals in an area by mass, then plot that against the actual mass - can be used to infer ecosystem
+- [[Phytolith]] might be used to test this - check for presence of grass, &c.

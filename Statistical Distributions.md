@@ -7,3 +7,5 @@
 
 ## Continuous Distributions
 - [[Normal Distribution]]
+- [[Pareto Distribution]]
+- [[Student's t Distribution]]
