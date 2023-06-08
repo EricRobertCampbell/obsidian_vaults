@@ -147,7 +147,7 @@
 	- urochordates
 	- cephalochordates
 	- vetulicolians
-- At one time it was thought that [[Conodonts]] might have been but they're placed firmly within the [[Vertebrata]] as jawless fishes
+- At one time it was thought that [[Conodonta]] might have been but they're placed firmly within the [[Vertebrata]] as jawless fishes
 - Urochordates:
 	- spotty fossil record
 	- trace fossils
@@ -171,7 +171,7 @@
 	- On the mouth-bearing segment, there are 5 circular structures that have been interpreted as pharyngeal gill slits
 - First regarded as unusual [[Arthropoda]], then as [[Deuterostomia]]
 - [[Yunnanozoons]], also from the [[Chengjiang Biota]], are much more convincing as basal [[Chordata]]
-	- [[Yunnanozoon]]
+	- [[Yunnanozoons]]
 	- [[Haikouella]]
 	- Fish-like form
 	- dorsal fin

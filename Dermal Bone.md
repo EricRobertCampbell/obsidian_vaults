@@ -1,2 +1,2 @@
-- Develop directly in the skin (or other membranous tissue) without a [[Cartilege]] precursor
+- Develop directly in the skin (or other membranous tissue) without a [[Cartilage]] precursor
 - Also known as "Membranous Bone"

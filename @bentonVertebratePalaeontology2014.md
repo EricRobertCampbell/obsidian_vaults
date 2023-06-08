@@ -19,3 +19,4 @@ Vertebrate palaeontology is a lively field, with new discoveries reported every 
 ## Chapters
 - [[Chapter 1 - Vertebrates Originate]]
 - [[Chapter 2 - How to Study Fossil Vertebrates]]
+- [[Chapter 3 - Early Palaeozoic Fishes]]

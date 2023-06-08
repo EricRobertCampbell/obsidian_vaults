@@ -80,6 +80,12 @@ Actual md content
 	- Without this, the client won't get any [[JavaScript]] for that component!
 - There are other `client` directives - for instance, `client:visible` only send the [[JavaScript]] when the component is visible on the page
 - [Directives](https://docs.astro.build/en/reference/directives-reference/#client-directives)
+- To add [[React]]: `npx astro add react`
+	- [Futher information](https://docs.astro.build/en/guides/integrations-guide/react/)
+
+## Sharing State
+- They recommend using [nanostores](https://github.com/nanostores/nanostores)
+	- [Additional Information](https://docs.astro.build/en/core-concepts/sharing-state/)
 
 ## Next Steps:
 - [Guide to Content Collections](https://docs.astro.build/en/guides/content-collections/#migrating-from-file-based-routing)

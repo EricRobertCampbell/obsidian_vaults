@@ -1,0 +1,639 @@
+## Introduction
+- Some fishy fossils from the early [[Cambrian]], but not armoured
+	- Gap until the [[Ordovician]] with few fish fossils
+	- Some further groups in the [[Silurian]]
+	- Became abundant in the [[Devonian]]
+- Most of these early fish were armoured
+- In the late [[Devonian]], they went extinct and were replaced with sharks and bony fish
+
+## Cambrian Vertebrates
+- Some controversy over the earliest [[Vertebrata]] - see [[Chapter 1 - Vertebrates Originate]]
+	- e.g. [[Pikaia gracilens]] or the [[Yunnanozoons]] from [[Chengjiang Biota]] but they might also be a basal [[Chordata]] or [[Deuterostomia]] rather than a vertebrate proper
+- However, other specimens from the [[Chengjiang Biota]] are widely considered to be [[Vertebrata]]:
+	- [[Myllokunmingia]]
+		- 28mm long
+		- Streamlined shape
+		- Possible mouth
+	- [[Haikouichthys]]
+		- Known from >500 specimens
+		- 25mm long
+		- streamlined shape
+	- [[Zhongjianicthys]]
+		- Small, eel-like
+		- Possible vertebral arches
+		- Eyes
+	- All of these three are grouped under the [[Myllokunmingiida]]
+- Earliest vertebrates with hard tissues are known from the [[Cambrian]] - [[Conodonta]] and isolated pieces of dermal armour from [[Anatolepis]]
+- [[Anatolepis]]
+	- Has knobbly surface ornament that could represent scales
+	- Fossils are important because they are composed of [[Apatite]]
+		- Same composition as [[Bone]]!
+		- Characteristic of [[Vertebrata]] but not in non-vertebrate [[Chordata]]
+	- Exoskeletal fragments are composed largely of a [[Dentine]]-like tissue around a pulp cavity, and they are somewhat [[Tooth]]-like
+	- Show that bone evolved some time after the origin of [[Vertebrata]], and that the apatitic tissues of [[Vertebrata]] may be complex
+
+## Vertebrate Hard Tissues
+- Living [[Bone]] consists of fibres of [[Collagen]] on which are deposited tiny hexagonal-prismatic crystals of [[Apatite]]
+- [[Osteocytes]] are the cells that control bone formation
+	- Generally encapsualted in the bone as it mineralizes
+- The parts of the skeleton inside the body is the [[Endoskeleton]]
+- The parks of the skeleton outside the body (e.g. shell of a turtle or head shields in early fishes) is the [[Exoskeleton]]
+- Bones can also act as a store of [[Calcium]] and [[Phosphorus]], and these elements can be mobilized by erosion of the [[Bone]]
+- Wide variety of hard tissues composed of [[Apatite]]:
+	- [[Dentine]]
+		- Very similar to [[Bone]]
+		- Except that cells are rarely encapsulated in it
+		- Contains narrow tubules in the zone between the centre of the tooth, the *pulp cavity*, and surface, just below the [[Enamel]]
+	- [[Enamel]]
+		- Forms the outer thin layer of our [[Tooth|teeth]] and the outer layer of early armour and scales
+		- Largely inert crystalline [[Apatite]] with some structural proteins but no [[Collagen]] or [[Blood Vessels]]
+		- Early fishes had [[Enameloid]] in their scales
+			- Heavily mineralized tissue based around an organic scaffold of proteins
+			- Also covers the teeth in many sharks and bony fishes
+- Five parts to a skeleton:
+	- [[Splanchnocranium]]
+		- Primary palate and jaws, branchial elements
+		- From the [[Endoderm]]
+	- [[Neurocranium]]
+		- Braincase
+		- from the [[Mesoderm]]
+	- [[Axial Skeleton]]
+		- [[Vertebrae]] and [[Ribs]]
+		- From the [[Mesoderm]]
+	- [[Appendicular Skeleton]]
+		- Limbs and girdles
+		- From the [[Mesoderm]]
+	- [[Dermal Skeleton]]
+		- External portions of the skull, [[Tooth|teeth]], armour plates, [[Clavicle]], [[Patella]]
+		- from the [[Ectoderm]]
+- [[Dermal Skeleton]] in early [[Vertebrata]] had scales made from bone dentine containing dentine tubules and capped with [[Enamel]]
+	- In contrast, the tooth-like elements of [[Conodonta]] had [[Enamel]] and [[Dentine]]
+	- Suggests that the dermal plates of early [[Vertebrata]] had more in common with our teeth than with the [[Endoskeleton]] [[Bone]]
+- Two views on the evolution of teeth:
+	- "Inside-out":
+		- Tooth-like structures evolved in in the [[Dermal Skeleton]] and teeth in [[Jaws]] evolved independently and convergently
+	- "Outside-in":
+		- Tooth development module, the [[Odontode]], appeared first in the [[Dermal Skeleton]]
+		- Later expanded into the mouth, where it was appropriated to produce teeth associated with [[Jaws]] and the [[Branchial Arches]]
+- Close study of early [[Conodonta]] show that their tooth-like structures evolved independently of [[Gnathostomata]] teeth, and so have no bearing on the evolution of [[Vertebrata]] skeleton and teeth
+- "Outside-in" hypothesis is best supported by the data
+- Tubercles on the dermal plate of [[Anatolepis]] are very similar to individual teeth
+	- Made from [[Dentine]] with a [[Pulp Cavity]] inside each
+	- Incremental growth lines can be seen in the [[Dentine]], showing how the tissue was laid down as the animal grew
+	- Between the tooth-like tubercles is a lamellar (layered) hard tissue containing pore canals, perhaps containing nerves for sensing movements in the water
+- Later [[Vertebrata]] also had [[Dentine]] tubercles on the outer layer of [[Dermal Bone]], but the deep layers were more complex
+	- Beneath the [[Dentine]] tubercles was a thick layer of spongy bone
+	- Beneath that a laminated layer of compact bone
+	- (Both were acellular)
+	- Tooth-like outer bone coverings are found in many fossil fishes
+	- Sharks today have pointed scales made from [[Dentine]] and [[Enameloid]] all over their bodies
+	- Certain early armoured fishes had a complex [[Bone]] of this type called [[Aspidin]]
+- Earliest [[Vertebrata]] had unmineralized internal skeleton, perhaps composed of [[Cartilage]]
+	- Flexible material composed mostly of [[Collagen]]
+	- (Although the [[Cartilage]] of these early [[Vertebrata]] was not composed of [[Collagen]])
+	- Cartilagenous fishes (sharks and rays) have an internal skeleton made from [[Cartilage]] surrounded by a mineralized rind, [[Prismatic Calcified Cartilage]]
+		- [[Synapomorphy]] of the clade
+- [[Bone]] began to appear in internal skeletons at different times, when vertebral centra and skeletal arches appeared in various lineages
+- [[Perichondral Bone]] forms by crystals of [[Apatite]] forming around soft tissues (e.g. nerves that pass through cartilage)
+	- E.g. the [[Braincase]]
+	- Also found in the girdle bones that support the fins of fishes
+- [[Endochondral Bone]] forms as a more substantial replacement of [[Cartilage]]
+	- Unique to [[Osteichthyes]]
+	- Contributes to the skeleton of bony fishes and forming most of the skeleton of and vertebrates
+
+## The Jawless Fishes
+- Earliest fishes are sometimes included in the paraphyletic group [[Agnatha]]
+	- Achieved great diversity for forms and sizes in the [[Cambrian]] to [[Devonian]]
+- Main groups of jawless fishes:
+	- [[Petromyzontiformes]] - lampreys
+	- [[Myxiniformes]] - hagfishes
+	- [[Conodonta]] - conodonts
+	- [[Pteraspidomorphi]], consisting of
+		- [[Arandaspida]]
+		- [[Astraspida]]
+		- [[Heterostraci]]
+	- [[Anaspida]]
+	- [[Thelodonti]] (small scales)
+	- [[Osteostraci]]
+	- [[Galeaspida]]
+	- [[Pituriaspida]]
+- Collectively close outgroups of the jawed fishes, the [[Gnathostomata]]
+- Armoured jawless fishes from the [[Paleozoic]] are sometimes known as the [[Ostracoderms]], which is a collections of clades of jawless vertebrates on the [[Gnathostomata]] stem
+
+### Living jawless fishes
+- Lampreys and hagfishes are the living fish with no jaws
+- Used to be seen as successive outgroups to [[Gnathostomata]], but increasing evidence that they are their own clade, [[Cyclostomata]]
+- All lampreys spend some time in fresh water, where they breed
+	- Most are parasitic
+	- Mouth and [[Oesophagus]] are lined with small, pointed, unmineralized teeth
+	- Fleshy "tongue" which also bears teeth
+	- Single nasal opening at the top of the head which runs into a pouch beneath the brain
+	- Two vertical [[Semicircular Canal]] in the internal ears on each side
+- Hagfishes look like lampreys
+	- Live in burrows in soft sediment
+	- Feed on invertebrates, decaying carcasses on the seafloor, and actively predate on [[Teleost]] fish
+	- Single nasal opening at the front that connects to the [[Pharynx]]
+	- Eyes are reduced and often covered with thick skin and muscle
+	- One one [[Semicircular Canal]] on each side
+	- Mouth is ringed with tentacles
+	- Inside are two pairs of horny plates with small keratin toothlets
+- [[Conodonta]]
+	- Some of the longest-lived early [[Vertebrata]]
+	- Only identified as fishes in 1983
+	- [[Conodont elements]] are tooth-like structures made from [[Apatite]], and were known far earlier
+	- So common that they are used for [[Stratigraphic Dating]]
+	- Complete specimen found in [[Edinburgh]]
+	- [[Chordata]] synapomorphies:
+		- [[Notochord]]
+		- Dorsal nerve chord
+		- [[Myomeres]]
+		- Tail
+		- Midline tail fin
+	- [[Vertebrata]] synapomorphies:
+		- Cranium in front of the [[Notochord]]
+		- Paired sense organs
+		- Extrinsic eye musculature
+		- Caudal fins with radial supports
+
+### [[Ordovician]] jawless fishes
+- A diversity of jawless fishes appeared in the [[Ordovician]]
+- Most are known only from dermal elements
+- Two [[Agnatha]] clades, the [[Astraspida]] and [[Arandaspida]], are known from more complete speciments
+	- Small fishes, around 200mm in size
+	- mobile tail covered with small protruding pointed plates
+	- massive bony head shield made from several large plates that cover the head an most of the body
+- [[Astraspis]]
+	- From [[North America]]
+	- Extensive bony head shield
+	- Large eyes
+	- 8 separate gill openings in a row
+	- Body is oval in cross section
+	- Bony plates are composed of [[Aspidin]] covered by tubercles composed of [[Dentine]] capped with [[Enameloid]]
+- [[Sacabambaspis]]
+	- From [[Bolivia]]
+	- Head shield composed of *dorsal* (upper) plate that rose to a slight ridge, a deep, curved *ventral* (lower) plate, and narrower *branchial* plates between these and which cover the gill area
+- Fossils of [[Astraspis]] and [[Sacabambaspis]] show clear evidence of the [[Lateral Line System]]
+	- Used to detect slight movements / pressure changes in the water
+	- Homologous with our inner ear hairs and other elements of our hearing system
+ 
+### [[Heterostraci]]
+- Radiated extensively in the [[Silurian]] and early [[Devonian]]
+- All were armoured with a substantial head shield
+- Varied in shape from the bullet-like [[Pteraspida]] to the flattened [[Drepanaspida]]
+- Broad, ornamented shield dorsally, one or more plates on either side of this, and a large bony element covering the underside
+- Form the clade [[Pteraspidomorphi]] together with the [[Astraspida]] and [[Arandaspida]]
+	- Share the synapomorphy of [[Aspidin]] in their dermal armour plates
+- [[Heterostraci]] are distinguished from the [[Astraspida]] and [[Arandaspida]] by having a single exhalant opening on each side into which the gills open
+- Four main groups:
+	- [[Cyathaspida]]
+		- e.g. [[Anglaspis]]
+		- Completely encased in bony plates and scales
+		- Dorsal, ventral, and branchial plates are broadly similar to [[Sacabambaspis]]
+			- Bear an ornament of of narrow parallel ridges
+		- Body portion is covered with large bony scales that overlap backward (like slates on a roof)
+		- No sign of paired fins of paddles
+	- [[Amphiaspida]]
+		- Complete fusion of the head shield along the sides to form a single carapace
+		- May have lived partially buried in the mud
+		- Some (e.g. [[Eglonaspis]]) have a long tube at the front which may have functioned as a 'snorkel' as it was buried in the bottom sediment
+	- [[Pteraspida]]
+		- Early to Mid [[Devonian]]
+		- Much better known
+		- e.g. [[Errivaspis]], larger dorsal and ventral plates, the linking branchial plate, as well as a [[Cornual Plate]] on the side, and [[Orbital Plate]] around the eyes, a [[Rostral Plate]] forming a pointed snout, several small plates around the mouth, and a dorsal spine pointing backwards.
+	- [[Psammosteida]]
+		- Much larger than the other [[Heterostraci]] (up to 1.5m in width)
+		- Several rows of small scale-plates called [[Tesserae]] lying between the main shields
+		- Flattening of the body has pushed the eyes well apart and turned the mouth upwards
+		- e.g. [[Drepanaspis]] looks like a [[Pteraspida]] that outgrew its armour - all of the plates are there but have moved apart
+- Feeding has been controversial
+	- Maybe they swam along the bottom, taking in small prey items?
+
+### [[Anaspida]] and [[Thelodonti]]
+- Modest in size and with limited armour
+- Affinities are unclear
+- [[Anaspida]] are known from the [[Silurian]] and [[Devonian]]
+- [[Thelodonti]] are known from isolated scales in the [[Ordovician]] and abundant scales and some whole specimens in the Upper [[Silurian]] and lower [[Devonian]]
+	- Large stomach indicates that they were deposit feeders
+
+### [[Osteostraci]] and relatives
+- Three clades of jawless fishes lie close to the origin of jawed [[Vertebrata]]
+	- [[Galeaspida]]
+	- [[Osteostraci]]
+	- [[Pituriaspida]]
+- [[Galeaspida]]
+	- ~75 species from the [[Silurian]] and [[Devonian]] of [[China]]
+	- Many have broad head shield
+		- But there's a wide variety of head shapes
+	- Mouth is just beneath the head shield
+	- Single nostril at the tip of the snout
+- [[Osteostraci]]
+	- ~200 species
+	- Arose in the [[Ordovician]] and radiated in the late [[Silurian]] and early [[Devonian]]
+	- First [[Vertebrata]] with paired fins
+	- Their pectoral fins had an endoskeleton that was likely homologous to our arms $\to$ limbs evolved before jaws
+	- Head shields had a wide variety of shapes
+	- Remarkable well-preserved head shields in some [[Cephalaspida]]
+		- Two oval openings for eyes
+		- Narrow, keyhole-like slit in front of them, the [[Nasohypophyseal Opening]]
+		- Behind that, and still in the midline, is the [[Pineal Opening]], associated with the [[Pineal Gland]] in the brain. It's possible that this was light-sensitive
+		- Internal structures were also well-preserved:
+			- [[Semicircular Canal]]
+			- [[Braincase]] and details of the circulatory system
+			- [[Brainstem]] is located in the middle, and is comprised of the three sections of today's living fishes and [[Tetrapoda]] embryos:
+				- [[Medulla]] in the back which leads into the [[Spinal Cord]]
+				- [[Pons]] in the middle
+				- [[Telencephalon]] (forebrain) in the front
+					- Elongate [[Hypophyseal Sac]] running forwards from it
+			- Cranial nerves
+				- III: eye movement
+				- V2: mouth and lip region
+				- VII: facial
+				- IX: tongue and [[Pharynx]]
+				- X: gill slits and anterior body
+- [[Pituriaspida]]
+	- Limited material from the Middle [[Devonian]] of [[Australia]]
+	- Could be close relatives of the [[Osteostraci]]
+	- Share the heavy head shield
+	- Have unusual large openings beneath the eye
+	- Also have a pair of openings on the trunk just behind the branchial chamber wall that were likely for paired pectoral fins
+
+## Origin of Jaws and [[Gnathostomata]] Relationships
+- [[Gnathostomata]] (jawed vertebrates): all fishes and [[Tetrapoda]] other than [[Agnatha]]
+	- All have jaws
+	- Enable a wide range of diets and food handling not available to the [[Agnatha]]
+		- e.g. durophagy
+- Jaws could only evolve after the subdivision of the [[Nasohypophyseal Canal]] that linked the single [[Cyclostomata]] nostril with the roof of the mouth
+- Three different theories for how jaws evolved:
+	- "Classic" theory: they arose from anterior gill arches
+	- Ventilation theory: evolved first for beathing
+	- Heterotopy theory: relative shift developmentally in the position of the [[Agnatha]] and [[Gnathostomata]] jaws
+
+### Jaws
+- "Classic" theory is that they formed from modified anterior gill arches
+	- In jawless fishes, the gill slits are separated by bony or cartilagenous arches
+	- Hypothetical ancestor with 8 gill slits and 9 gill arches lost 4 gill slits and fused / modified the anterior three
+	- Most anterior may form parts of the floor of the braincase
+	- Second gill arch might have been modified to form the [[Palatoquadrate]], the main part of the upper jaw, and [[Meckel's Cartilage]], the core of the lower jaw ([[Mandible]])
+	- Third gill arch was then modified in part to privide a sjull bone and a mandible bone that formed part of the jaw joint, the [[Hyomandibular]] in the skull and the [[Ceratohyal]] in the lower jaw
+	- All of these changes affected the [[Splanchnocranium]], the gill arch, and oral portions of the skull derived embryologically from the [[Neural Crest]]
+ - Ventilation theory suggests that jaws evolved first for breathing
+	 - Mandibular branchial arch in the pre-gnathostome enlarged first to improve the intake of oxygenated water
+	 - Later, with the evolution of suction feeding, they took on a feeding function
+	 - Evidence is that the gill [[Lammellae]] in lampreys develop medially to the supporting skeleton, whereas the gills of [[Gnathostomata]] must develop laterally, so there must have been a transition from internal to external gill arches before the jaws evolved
+- Heterotopy theory:
+	- Founded on developmental genetic evidence: different parts of the cephalic [[Ectomesenchyme]], the embryonic precursor tissues of the palate and jaws, give rise to the upper and lower margins of the mouth between these two animal groups
+	- (Lamprey lips are not the same as [[Gnathostomata]] lips)
+		- Therefore wrong to assume that jaws arose by encircling the existing basal [[Vertebrata]] mouth
+	- In [[Gnathostomata]], jaws develop from cells that rose initially from the [[Neural Crest]]
+	- Similar cells are seen in lampreys; however, they go on to develop into the uper lip and [[Velum]], whereas in [[Gnathostomata]] they become the jaws
+	- Developmental genes that trigger the anterior to posterior patterning of the lips are the same in [[Cyclostomata]] and [[Gnathostomata]], but anatomical elements and genes act differently
+	- Lips in lampreys comprise portions of tissues that arise from postoptic and mandibular arch [[Neural Crest]] domains, whereas in [[Gnathostomata]] the entire mouth is formed from mandibular arch tissue, and the postoptic cells become parts of the anterior snout skeleton
+
+### Jaw Attachment and [[Gnathostomata]] Relationships
+- in [[Gnathostomata]], the [[Palatoquadrate]] is generally attached to the [[Neurocranium]], the main portion of the skull that enclosed the [[Brain]] and sensory organs
+- In early sharks, e.g. [[Cobelodus]] from the late [[Carboniferous]] of [[North America]], there is a double attachment with links fore and after, the [[Amphystylic Condition]]
+- This pattern has been modified in two main ways
+	- In most modern fishes, [[Palatoquadrate]] contacts the [[Neurocranium]] at the front only, an the jaw joint is entirely braced by the [[Hyomandibular]]
+		- On opening the jaws, [[Palatoquadrate]] can slide forward, increasing the gape
+		- [[Hyostylic Jaw Suspension Condition]]
+	- Other condition is to exclude the [[Hyomandibular]] from support of the jaw and the fuse the [[Palatoquadrate]] to the [[Neurocranium]], the [[Autostylic Condition]]
+		- Typical of certain fish group, the [[Chimeras]] and [[Lungfishes]] as well as the [[Tetrapoda]]
+- Living [[Gnathostomata]] are grouped into the clades [[Chondrichyes]] (bony fishes) and [[Osteoicthyes]] (tetraopds)
+	- Two additional (extinct) groups: 
+		- [[Acanthodii]] of the [[Ordovician]] to [[Permian]] 
+		- [[Placodermi]] of the [[Silurian]] and [[Devonian]]
+	- Both of these groups appear to form a grade that includes a mixture of stem [[Gnathostomata]] and [[Chondrichyes]]
+
+## [[Placodermi]]: Armour-plated Monsters
+- The [[Osteostraci]] and [[Heterostraci]] were not the only armour-plated fishes in the [[Silurian]] and [[Devonian]] seas
+- Placoderms had similar bony carapaces over the heads and shoulders, but in all cases they were mobile
+- Special neck joint that allowed the anterior portion of the head shield to be lifted
+- [[Placodermi]] included the first [[Vertebrata]] to have paired pelvic fins
+- Nearly 350 genera known from the early [[Silurian]] to the end of the [[Devonian]]
+- Included 7 clades, listed from basal $\to$ derived:
+	- [[Acanthothoraci]]
+	- [[Rhenanida]]
+	- [[Antiarchi]]
+	- [[Petalichthyida]]
+	- [[Ptyctodontida]]
+	- [[Phyllolepida]]
+	- [[Arthrodira]]
+		- Largest clade
+- Currently unclear whether they form a [[Clade]] or [[Grade]]
+
+### [[Arthrodira]]
+- Make up more than half of known [[Placodermi]]
+- [[Coccosteus]]
+	- Middle [[Devonian]]
+	- Trunk shield covers only part of the dorsal surface, extending back as far as the shoulder region below
+	- Paired pectoral and pelvic fins
+	- Hetercercal tail
+	- Long dorsal fin
+	- Likely a powerful swimmer, but spent most of its time near the bottom of seas and lakes
+- Head and trunk shield consist of several plates
+- Gap between head and trunk shield: [[Nuchal Gap]] to allow hinging
+- Jaws open by an upwards swing of the skull and dropping of the lower jaw
+- Skull hinges about ball-and-socket joints within the lateral margins of the dorsal part of the head shield
+	- Gape is limited by the [[Nuchal Gap]]
+- Suggested that they used a head-lifting form of jaw opining in feeding on the bottom of seas and lakes (easier to lift the upper jaw than lower the lower one when you're right on the bottom)
+- Later [[Arthrodira]] had more reduced armour (often only a limited trunk shield)
+- Two late-[[Devonian]] families achieved great size
+	- [[Dinichthyidae]] and [[Titanichyidae]]
+	- 6-7m in length
+	- [[Dunkleosteus]] was the largest predator in the [[Devonian]] seas
+- Some [[Placodermi]] produced live young
+	- Embryos reported within the [[Ptyctodontida]] [[Materpiscis]] and the [[Arthrodira]] [[Incisioscutum]]
+
+### [[Placodermi]] Teeth and Jaws
+- Bones of the lower jaw margin in [[Arthrodira]] and most other [[Placodermi]] are worn to a sharp edge against a series of eight small plates in the upper jaw.
+- [[Placodermi]] figured in the debate about teeth (did it happen early or late in [[Gnathostomata]] evolution?)
+- They had teeth, but inside the mouth behind the main shearing bone plates
+- New [[Placodermi]] [[Entelognathus]] is classified as a basal [[Gnathostomata]], but shows characters previously thought to be unique to [[Osteichthyes]]
+	- Large dermal bones around the mouth ([[Premaxilla]], [[Maxilla]], [[Dentary Bone]])
+	- Confirms that [[Placodermi]] are [[Paraphyletic]] and that [[Acanthodii]] are on the stem to [[Chondrichyes]]
+
+### Diverse [[Placodermi]]
+- [[Acanthothoraci]] have a head shield like early [[Arthrodira]]. Plates were separate in juveniles, but seem to have fused in adults
+- [[Rhenanida]] 
+	- have a body covering of small [[Tesserae]] instead of large plates
+	- [[Gemuendina]] from the early [[Devonian]] looks like a ray (flattened body, &c.)
+	- Large bony plates in the midline, around the eyes, nostrils, and mount, and on the sides of the head, which are divided by a mosaic of small plates extending onto the trunk and pectoral fins
+- [[Antiarchi]]
+	- Diverse group from [[Silurian]] to late [[Devonian]]
+	- Retained a heavy armour covering
+	- Specialized in a bottom-dwelling mode of life
+	- [[Pterichyodes]] has a high, domed trunk shield
+		- pectoral fin is entirely enclosed in bone and was movable against the trunk through a complex joint
+	- [[Bothriolepis]]
+		- Most successful [[Placodermi]]
+		- Diversified into more than 100 species
+		- Middle and Late [[Devonian]]
+		- Slender, with a lightly scaled tail region bearing paired pelvic fins
+		- Pectoral fins are alender and covered with armour plates
+		- Several specimens show evidence of lungs inside the dermal armour
+		- Probably grubbed in the mud for detritus
+  - [[Petalichthyida]]
+	  - Small group of bottom-dwelling [[Placodermi]]
+	  - [[Lunapsis]]
+		  - from the early [[Devonian]]
+		  - flattened with a short trunk shield and long [[Cornual Plate]]
+		  - Anterior part of the head shield around the eyes and nostril is covered in numerous tiny scales
+		  - Long trunk is also covered in these scales
+		  - Appears to lack pelvic fins
+- [[Ptyctodontida]]
+	- Reduced armour plating
+	- Generally small (<200mm) with long, whip-like tails, a long posterior dorsal fin, and a high anterior doral fin supported by a spine on the trunk shield
+	- [[Ctenurella]]
+		- late [[Devonian]] 
+		- Much reduced armour
+	- Some have [[Claspers]]
+		- Elongate elements associated with the pelvic fin which are associated with internal fertilization
+	- [[Claspers]] are also seen in some [[Chondrichyes]], but the structure of that in [[Ptyctodontida]] is different
+- [[Phyllolepida]]
+	- Large, bony head shields and trunk shields
+	- Made from plates with very clear ornament of concentric ridges
+	- [[Phyllolepis]]
+		- Flattened body with a rounded snout and long, narrow tail portion
+		- Not well known from fossils
+
+## [[Chondrichyes]]: the first sharks
+- The first [[Chondrichyes]] ("cartilaginous fishes") are indicated by isolated teeth and scales from the late [[Ordovician]] and [[Silurian]]
+- First remains with [[Prismatic Calcified Cartilage]] from the early [[Devonian]]
+- [[Doliodus]] - early [[Chondrichyes]]
+	- paired pectoral fin-spines, previously unknown in cartilaginous fishes
+	- Early evidence that many [[Acanthodii]] may be closely related to [[Chondrichyes]]
+- [[Cladoselache]] - shark from the Late [[Devonian]]
+	- Reached 2m in length
+	- Skin doesn't seem to have had scales
+	- [[Notochord]] bends upwards into the top (dorsal) lobe of the tail
+	- Two dorsal fins - one behind the head and the other haldway down the body
+	- Anterior dorsal fin has a spine in front
+	- Two sets of paired fins, the pectoral and pelvic fins, each set approximately beneath the dorsal fins and each associated with a girdle element of the skeleton
+	- Probably a fast swimmer, using sideways sweeps of its tail for power and pectoral fins for steering and stabilization
+	- Skeleton is made from [[Prismatic Calcified Cartilage]]
+	- Calcified cartilage is known from [[Placodermi]] and some [[Agnatha]], but [[Chondrichyes]] seem to be unique in having the prismatic form
+- At first it was argued that the [[Chondrichyes]] had the primitive condition, but the discovery of [[Entelognathus]] seems to indicate that dermal ossification of the skull was the base condition and that the loss of calcified dermal skull bones in [[Chondrichyes]] is the derived condition
+- Major [[Chondrichyes]] lineages arose in the [[Devonian]] but radiated in the [[Carboniferous]]
+
+## [[Acanthodii]]: the 'spiny skins'
+- Generally small fishes, mostly less than 200mm long
+- First ones arose in the Late [[Ordovician]] but became abundant only in the [[Devonian]]
+- A few lines survived into the [[Carboniferous]] and one into the Early [[Permian]]
+- Form a [[Grade]]
+- Members of the stem lineage to [[Chondrichyes]]
+- Thus crucial to our understanding of the evolution of jaws
+- Most have slender bodies with one to two dorsal fins, an anal fin, and a heterocertal tail fin
+- Pectoral and pelvic fins bear substantial spines along the anterior margin
+- As many as six pairs of spines along the belly of early forms
+- Head is large and covered with light bony plates
+- Large eyes supported by [[Sclerotic Plates]]
+- Many species have sensory canals running through the surfaces of teh cranial bones
+- Shoulder girdle [[Scapulocoracoid]] is ossified in some forms and separated from the skull (as in all [[Gnathostomata]]), allowing greater freedom of movement than in some [[Ostracoderms]]
+- Body is covered with small, closely-fitting scales made from [[Bone]] and [[Dentine]]
+	- Show concentric growth lines
+	- Seems that each had a fixed number of scales which grew as the animal did
+- Great diversity of tooth types
+- Wide gape and gill rakers (sharpened spikes in the throat region which are attached to the [[Hyoid Arch]] and [[Branchial Arches]])
+- Large eyes suggest that they lived in open, deep water
+- Occupied marine and freshwater in the [[Devonian]], but in the [[Carboniferous]] were primarily freshwater
+- Spines may have played a defensive role
+
+## [[Devonian]] Environments
+- Early [[Paleozoic]] environment was very different from now, largely due to different continental structure
+- Information about continental placement is less certain than for later time periods, so paleogeographical maps of the [[Silurian]] and [[Devonian]] are controversial
+
+### Siluro-Devonian Faunal Provinces
+- Possible to distinguish [[Faunal Provinces]] among early fishes
+- e.g. as many as 8 different fish assemblages ([[Faunal Provinces]]) in the [[Silurian]]
+- Located around the margins of the supercontinent that straddled the equator
+- [[Silurian]] fish faunas were kept apart by barriers to mixing, major land masses, and wide oceans
+- Many of these disappeared in the early [[Devonian]], and a single [[Thelodonti]] assemblage, the [[Turinia Fauna]], occurs nearly worldwide
+- Most early [[Devonian]] faunas were tropical
+- Major trend in [[Devonian]] fish evolution was a move from endemic faunas in the Early [[Devonian]] to more worldwide occurrences in the late [[Devonian]]
+
+### Siluro-Devonian environments
+- [[Silurian]] and [[Devonian]] seas and fresh waters were warm, and fish fossil localities are clustered in the equatoral and tropical belt
+- Important environmental changes occurred on land furing the [[Silurian]] and [[Devonian]]
+- First land plants appeared in the Middle to Late [[Silurian]]
+	- Small and reed-like, and probably grew around ponds and lakes with their tuberous roots partially in the water
+	- By the Middle and Late [[Devonian]], large horsetails and Scale Trees (Lycopods) became common
+- First land animals were scorpions, millipedes, and and spider-like [[Arthropoda]], all of which could live on the land and the water
+	- First appeared in the Late [[Silurian]]
+- Fossils of mites, spiders, and wingless insects have been found in the Early [[Devonian]]
+	- Diversity of insects increased in the Late [[Devonian]]
+
+## [[Osteichthyes]]: The Bony Fishes
+- Distinguished from the other fishes discussed so far by a number of characters
+	- [[Endochondral Bone]]
+	- Maxillary and dentary tooth-bearing bones with the teeth fused into the bone
+	- [[Gular Plates]] (medial bones between the jaws)
+	- Skull roof consisting of large dermal plates
+	- modified body scales with a peg-and-socket articulation
+- Divided into two clades:
+	- [[Actinopterygii]]
+	- [[Sarcopterygii]]
+- First fossil [[Actinopterygii]] are Early [[Devonian]], while the first [[Sarcopterygii]] are Late [[Silurian]]
+- Clades are easily distinguished by their fins
+	- [[Actinopterygii]] have 'ray fins' that are supported by a series of narrow cartilaginous or bony rods
+	- [[Sarcopterygii]] have fleshy 'lobe fins' supported by a single basal bone and with muscles that can modify the posture of the fin
+
+### [[Devonian]] [[Actinopterygii]]
+- Oldest ones (represented by scales) are Early [[Devonian]]
+- Group began to diversify in the Late [[Devonian]]
+- Early form is [[Cheirolepis]]
+	- Middle [[Devonian]]
+	- ~250mm in length
+	- Body is slender and elongate
+	- Tail is strongly heterocercal (although a tail fin beneath makes it nearly symmetrical)
+	- Large triangular dorsal and anal fins and paired pectoral and pelvic fins
+- Body is covered with small overlapping lozenge-shaped scales that articular with each other using a peg-and-socket arrangement in the tail region
+- Fin rays ([[Actinotrichia]]) are covered with jointed dermal bones, the [[Lepidotrichia]]
+	- Provide a covering for the fin and help with stiffening
+- Scales are composed of layers of [[Bone]], [[Dentine]], and an [[Enamel]]-like covering on the outside
+- Skull is relatively heavy, with a bony [[Braincase]] and palatal elements inside
+- Also an outer bony box made from numerous thin dermal bone plates
+- Large eye and two nostrils on each side
+- Broad mouth lined with irregularly spaced sharp teeth
+- Teeth are borne on three bone in the jaw:
+	- [[Maxilla]] and [[Premaxilla]] in the upper jaw
+	- [[Dentary Bone]] in the lower jaw
+- [[Palatoquadrate]] is inside the [[Maxilla]] and is covered by palatal bones bearing rows of teeth
+- At the back of the skull are the outer dermal elements of the shoulder girdle, attached to the gill region
+- Head skeleton of [[Cheirolepis]] is kinetic - composed of several different units that move against each other
+- [[Cheirolepis]] was a fast-moving predator which used its large eyes to hunt in murky water
+- [[Actinopterygii]] radiated dramatically in the [[Carboniferous]] and today are the dominant fishes
+
+### [[Dipnomorpha]]: the lungfishes
+- [[Sarcopterygii]] were a more diverse group in the [[Devonian]] than the [[Actinopterygii]]
+- [[Sarcopterygii]] all have muscular, lobed paired fins with bony internal skeletons as well as a highly kinetic skull
+- Two living [[Sarcopterygii]] clades:
+	- [[Dipnoi]] (lungfishes)
+	- [[Actinistia]] (coelocanths)
+- Numerous extinct clades, the earliest being known from the Late [[Silurian]]
+- Lungfishes were particularly diverse in the [[Devonian]], but they;ve dwindled to only three living genera
+- Lungfishes more widely ([[Dipnomorpha]]) arose in the Early [[Devonian]]
+	- [[Youngolepis]] and [[Diabolepis]] from [[China]]
+	- [[Powicthys]] from the Canadian Artic and Spitsbergen
+- [[Dipterus]] from the Middle [[Devonian]] of Scotland has a long body (like the [[Tristichopteridae]]), but the fins and skull bones are different
+	- Fins are pointed with long central lobes supported, in the paired fins, by a rather symmetrical array of bones
+	- Tail is heterocercal and has a narrow fin beneath
+	- No teeth on the margin of the jaws, but a pair of large dentine-covered grinding plates in the middle of the palate
+- Several lineages appeared in fresh waters in the [[Carboniferous]] and two continued into the [[Mesozoic]] and [[Cenozoic]]
+- Many changes took place in that time:
+	- Elaboration of the crushing tooth plates
+	- development of a special hypermineralized [[Dentine]]
+	- (All to increase the crushing power of the jaws)
+	- Body shape changed, becoming more symmetrical
+	- Tail became more symmetrical above and below the body
+- Three living genera of lungfishes reduced the bony parts of the skeleton
+	- [[Braincase]] and part of the [[Backbone]] remain cartilaginous
+	- Outer skull bones re reduced in number and weight
+- [[Neoceratodus]] (extant, from [[Australia]])
+	- Deep bodied, with broad pectoral and pelvic fins
+- [[Lepidosiren]] (extant, [[South America]]) and [[Protopterus]] (extant, [[Africa]])
+	- stout, muscular, eel-like bodies and very slender, elongate paired fins
+- Modern lungfishes have [[Lungs]] as well as [[Gills]]
+- However, all [[Osteichthyes]] have [[Lungs]] and [[Gills]], even if they are modified into a [[Swim Bladder]] in most [[Actinopterygii]]
+- Presumably, many [[Paleozoic]] [[Osteichthyes]] (in addition to the lungfishes) could breathe air
+
+### [[Actinistia]]: the coelocanths
+- Arose in the Early [[Devonian]]
+- Represented by fossils up to the late [[Cretaceous]]
+- Typical coelocanths (e.g. [[Diplurus]], from the [[Triassic]] of eastern [[North America]]):
+	- short bodies with large dorsal, anal, and paired fins
+	- All are lobed, except for the anterior dorsal
+	- Tail is divided into three parts: dorsal and ventral portion, separated by a small middle lobe at the end of the [[Notochord]]
+	- Skull is short overall, although the snout region is longer than in the [[Tristichopteridae]]
+- [[Latimeria]] - extant coelocanth, first 'discovered' in 1938
+	- Reproduces by bearing live young (oviparity)
+- Ovoviviparity is reported for coelocanths in the [[Triassic]], [[Jurassic]], and [[Cretaceous]]
+
+### Early [[Sarcopterygii]]: origins of [[Tetrapodomorpha]]
+- In comparison to living [[Sarcopterygii]], the clade was diverse in the [[Devonian]]
+- Key subclades include:
+	- [[Porolepiformes]]
+	- [[Onychodontida]]
+	- [[Rhizodontida]]
+	- [[Osteolepidae]]
+	- [[Tristichopteridae]]
+	- [[Panderichyida]]
+- Partly members of the wider clade containing lungfishes ([[Dipnomorpha]]), but most fall on the stem to [[Tetrapoda]], the [[Tetrapodomorpha]]
+- [[Porolepiformes]]
+	- e.g. [[Holoptychius]]
+	- Generally have large, rounded scales
+	- long pointed pectoral fins with more extensive lobed portions than in the [[Tristichopteridae]]
+	- Deep bodies and short skulls
+	- Strongly folded teeth are welded into the jaws by a plug of attachment bone inserted into the pulp cavity
+	- Bite marks on contemporary [[Heterostraci]], [[Placodermi]], and [[Sarcopterygii]] appaear to have been made by [[Porolepiformes]]
+- [[Onychodontida]]
+	- small group of probably predatory fishes with long, hooked teeth at the front of the lower jaw
+	- Ranged in length from 50 mm - over 1 m
+	- Only five general
+	- Either stem coelocanths or stem [[Sarcopterygii]]
+- [[Tetrapodomorpha]] emerged in the early [[Devonian]] 
+	- [[Tungsenia]] (from China) shows modifications of the brain and lower jaw tat were once thought to be unique to [[Tetrapoda]]
+- [[Rhizodontida]]
+	- Late [[Devonian]] and early [[Carboniferous]]
+	- Large hunters
+	- At least one specimen suggests that they could have exceeded 6 - 7 m in length
+- [[Osteolepidae]]
+	- (Possibly a grade rather than a clade)
+	- Had their heyday in the [[Devonian]], although one group survived into the [[Carboniferous]]
+	- [[Osteolepis]]
+		- long, slender body with large midline fins (two dorsal, one anal)
+		- lobed, paired fins (pectoral and pelvic)
+		- Tail is heterocercal
+- [[Tristichopteridae]]
+	- e.g. [[Eusthenopteron]]
+		- late [[Devonian]] of [[Canada]]
+		- Reached a length of 1m
+		- Characteristic 3-pointed symmetrical tail
+		- Outer portion of the head, gill egion, and attached shoulder girdle are covered by a complex if thin dermal bone plates
+		- Small teeth on the [[Maxilla]], [[Premaxilla]], and [[Dentary Bone]], as well as several on the bones of the [[Palate]]
+		- Some of the palatal and lower jaw teeth are large and fang-like, and have complex (labyrinthine) internal patterns of infolding
+			- [[Labyrinthodont]] type of tooth, also found in early [[Tetrapoda]]
+		- Skull is highly kinetic
+			- Jointed in order to allow the mouth to open wide (synapomorphy of [[Sarcopterygii]])
+			- Even the [[Braincase]] is jointed, a trait which is preserved in [[Latimeria]] but otherwise unknown in living [[Sarcopterygii]]
+- [[Panderichyida]]
+	- AKA [[Elpistostegidae]]
+	- Very close to the origin of [[Tetrapoda]] with legs
+	- [[Panderichtys]]
+		- Late [[Devonian]] of [[Latvia]]
+		- elongate fish with a long snout
+		- Skull is flattened and the eyes are on the top of the head
+		- Has only the paired pectoral and pelvic fins (as well as a tail fin)
+			- Lacks the midline fins seen bove and blow the body in more basal [[Tetrapodomorpha]]
+		- Very similar to the early [[Tetrapoda]] [[Tiktaalik]]
+
+## Early fish evolution and mass extinction
+
+### Diversification of early [[Vertebrata]]
+- Hard to nail down the early diversification of [[Vertebrata]] because of the patchiness of the fossil record
+- Fishes arose in the early [[Cambrian]] and radiated by the Late [[Cambrian]]
+- Renewed searches have turned up a wide array of Late [[Ordovician]] fishes
+- Fishes became more abundant and diverse in the [[Silurian]]
+- Rise of life on land and the diversification of [[Gnathostomata]] have been explained by both intrinsic (biological) and extrinsic (environmental) factors
+- Increase in jawed vertebrates and decrease in jawless ones points to the importance of jaws and diversified modes of predation
+- At the same time, [[Ammonoidea]] and [[Eurypterids]] were on the rise
+- An alternative explanation for this diversification is that levels of atmospheric [[Oxygen]] were on the rise
+	- about 15% in the Middle [[Ordovician]]
+	- Rose to 20% (modern levels) in the Early [[Silurian]]
+	- 25% in the Early [[Devonian]]
+	- Dropped to 15% in the Late [[Devonian]]
+- [[Silurian]] - [[Devonian]] [[Oxygen]] peak could have enabled the diversification of larger, more active fishes (as well as [[Arthropoda]] on land)
+- Counter to that, there is limited correlation between the oxygen levels and clade diversity
+
+### The Late [[Devonian]] Mass Extinctions
+- First extinction of fishes happened at the end of the Early [[Devonian]]
+	- Loss of [[Cyathaspida]], [[Acanthothoraci]], and others
+- Some [[Agnatha]] and [[Placodermi]] families disappeared during the Middle [[Devonian]]
+- Both of these were apparently quite modest events
+- Late [[Devonian]] - one of the [[Big Five Mass Extinctions]]
+	- rarely been seen as a sudden extinction, but more as a series of events, sometimes referred to as the [[Late Devonian Biodiversity Crisis]]
+		- Spanned the 25 Myr of the late Middle and Late [[Devonian]]
+	- Three extinction events have been identified during this time span:
+		- end-Givetian Taghanic event
+		- end-Frasnian Kellwasser event (during which 60% of marine genera and up to 82% of species died out)
+		- end-Famennian Hangenberg event
+- Among fishes, Late [[Devonian]] has been seen as the time when armoured fishes disappeared and modern-style [[Chondrichyes]] and [[Actinopterygii]], as well as [[Tetrapoda]], replaced them

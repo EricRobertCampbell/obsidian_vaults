@@ -56,7 +56,7 @@ series: Philip J. Currie Dinosaur Museum Speaker Series
 - Probably from sponges
 - By the middle [[Ordovician]] we have more reefs and a more diverse set of reef builders
 - [[Rugose Corals]] - went extinct at the end of the [[Permian]]
-- Late [[Ordovician]] - [[Paleozioc]] fauna
+- Late [[Ordovician]] - [[Paleozoic]] fauna
 - Variety of filter feeding organisms: [[Bryozoans]] and [[Brachiopoda]]
 - Another extinction at the end of the [[Ordovician]]
 

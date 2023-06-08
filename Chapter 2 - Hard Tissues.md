@@ -7,10 +7,10 @@
 	 - Difference is related to amount of [[Calcium Phosphate]] they contain
 		 - [[Enamel]] has more [[Hydroxyapatite]] -> harder, less brittle, sharper cutting surface
 		 - [[Dentine]] has less -> forms the softer inner core
-- Two general types of bone in [[Vertebrata]]: [[Dermal Bone|dermal]] and [[Endochonal Bone|endochonal]]
-- Most bone (in [[Vertebrata]]) are [[Endochonal Bone|endochonal]]
+- Two general types of bone in [[Vertebrata]]: [[Dermal Bone|dermal]] and [[Endochondral Bone|endochonal]]
+- Most bone (in [[Vertebrata]]) are [[Endochondral Bone|endochonal]]
 	- But most of the [[Skull]] is [[Dermal Bone|dermal]]
-	- Others (like the [[Scapula]]) are a mix of [[Dermal Bone]] and [[Endochonal Bone]]
+	- Others (like the [[Scapula]]) are a mix of [[Dermal Bone]] and [[Endochondral Bone]]
 - Variety of bone textures
 	- Can vary based on
 		- Where in the bone it is located
@@ -36,12 +36,12 @@
 
 ### The Dinosaur Skull
 - Over 20 different units
-- Some [[Endochonal Bone]], some [[Dermal Bone]], some a mix, and some fused
+- Some [[Endochondral Bone]], some [[Dermal Bone]], some a mix, and some fused
 - Can be divided into 5 complexes:
 	- Upper Jaw and Cheek Region: Mostly [[Dermal Bone]]
 	- Skull roof: Entirely [[Dermal Bone]]
-	- Braincase: Mostly [[Endochonal Bone]]
-	- Palate: Mostly [[Endochonal Bone]]
+	- Braincase: Mostly [[Endochondral Bone]]
+	- Palate: Mostly [[Endochondral Bone]]
 	- Lower Jaw: A mix
 - Within each complex are bones, sometimes teeth, and important openings
 
@@ -81,7 +81,7 @@
 
 #### Braincase
 - More than 20 individual bones
-- [[Endochonal Bone]], and so develop from [[Cartilege]] early in development
+- [[Endochondral Bone]], and so develop from [[Cartilage]] early in development
 - Most of the bones eventually fuse
 - Geometrically complex
 - Identification can be extremely difficult
@@ -108,7 +108,7 @@
 	- Posterior edge of the [[Ectopterygoid Bone]] forms the forms the anterior corner of another opening, the [[Subtemporal Fenestra]]; essentially the floor of the [[Infratemporal Fenestra|lateral temporal fenestra]]
 	- [[Ectopterygoid Bone]] and [[Palatine Bone]] articulate medially against the [[Pterygoid Bone]], a bone with a very complex 3D geometry due to many processes which articulate with bones of the palate and braincase
 	- Two [[Pterygoid Bone]] meet on the midline, but diverge posteriorly to form the [[Interpterygoid Vacuity]] between them
-	- Two remaining bones are [[Endochonal Bone]] and are the remnants of upper jaw in primitive [[Vertebrata]] 
+	- Two remaining bones are [[Endochondral Bone]] and are the remnants of upper jaw in primitive [[Vertebrata]] 
 	- [[Quadrate Bone]] - larger and more important. 
 		- Much of the posterior region of the skull
 		- Lateral to the braincase
@@ -132,7 +132,7 @@
 - Between the [[Dentary Bone]], [[Surangular Bone]], and [[Angular Bone]] of most species is an opening in the jaws, the [[External Mandibular Fenestra]]
 	- Hallmark of [[Archosauria]]
 - Far posterior end of the jaws: [[Articular Bone]]
-	- Sole [[Endochonal Bone|endochondal]] element of the jaw
+	- Sole [[Endochondral Bone|endochondal]] element of the jaw
 	- Has a smooth, saddle-sahped articular surface to receive the condyle of the [[Quadrate Bone]] and thus form the joint between the upper and lower jaws
 - On the medial surface of the lower jaw: deep fossa on the medial surfaces of the [[Dentary Bone]], [[Angular Bone]], and [[Surangular Bone]]
 	- [[Adductor Fossa]]
@@ -292,7 +292,7 @@
 - AKA Shoulder girdle
 - Composed primarily of two bones: [[Scapula]] and [[Coracoid]]
 	- Contributions from the [[Clavicle]] and [[Sternum]], when present
-- [[Scapula]] and [[Coracoid]] are [[Endochonal Bone|endochonal]] and contribute to the joint for the [[Humerus]]
+- [[Scapula]] and [[Coracoid]] are [[Endochondral Bone|endochonal]] and contribute to the joint for the [[Humerus]]
 - [[Scapula]] is much larger and takes the form of a large, flat blade directly outside, and folling the contours of, the ribcage
 - [[Coracoid]] is stouter, plate-like - usu. shaped like a semicircle or square, appressed to the [[Scapula]] anteriorly and ventrally
 - Along the ventral surface where the two meet is the smooth, deeply recessed head of the [[Glenoid]]
