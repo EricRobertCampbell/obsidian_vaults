@@ -20,5 +20,5 @@ The study of dinosaurs has been experiencing a remarkable renaissance over the p
 - [[Chapter 1 - An Introduction to Dinosaurs]]
 - [[Chapter 2 - Hard Tissues]]
 - [[Chapter 3 - Soft Tissues]]
-
+- [[Chapter 4 - Phylogeny]]
 ## Next Steps / Ideas
