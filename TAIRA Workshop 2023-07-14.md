@@ -1,0 +1,116 @@
+# Market Messaging Applications / Email Campaigns
+- How to implement the messaging
+- Writing the email should be the last step
+	- All of the work that we've done before ([[Ideal Customer Profile]], [[Unique Selling Propositions]], [[Unique Value Propositions]]) are setting the stage for the emails
+	- Only way to get better is to practice (or AI< I guess)
+	- Don't think about writing a template; think about writing a letter to that person - make it targeted
+	- Where these go wrong is that they don't effectively target the people they're going to
+	- Send the email to yourself or just read it out loud - if it doesn't hit with you it won't hit with the prospective client
+	- Focus today is on email campaigns, but the ideas are transferrable to other campaign types
+- **It's not what you do (features), it's what you do for them (value)**
+- Messaging should be in service of the [[Ideal Customer Profile|ICP]]
+- Not about *educating* people
+- They need to be galvanized - do this by generating curiosity. Oh, that sounds interesting or whatever
+- Keys:
+	- Personalization
+		 - The email should not be the type that you immediately delete from the inbox
+			 - Something to demonstrate that you've done some small amount of research
+			 - Maybe the name, country, industry, key metric that they're interested in
+			 - Personalized at moderate scale - maybe it applies to 10-20 people in the same position, &c.
+		- Less personalization -> less likely to get any kind of response
+	- Short and Simple
+		- **simple**
+		- Use yourself as a guide - open it on the computer *and on the phone*. Does it seem too long?
+		- No blocks of text
+		- Don't always need a super-professional tone - can be more personal
+			- Be genuine. Does the email sound like something that you would actually say?
+	- Clear and easy call to action
+		- Include a calendar link. Clear, easy
+		- Remember - the goal is to get a meeting
+		- Make it *easy*
+	- Persistence
+		- Bank on multiple touches
+		- There is no perfect email - probably you'll have to send a few
+		- Play the game better than the other people who are trying to get into their email 
+		- Don't have to say a lot - just get to the meeting
+			- Emphasize the core value proposition
+		- Don't take the initial non-response as a *negative* response - you might have just caught them on a bad day! Have to send a few to get a better idea of their real response
+	- Credibility ([[Unique Value Propositions]])
+		- Startup dysmorphia
+		- Gathering facts so you can credibly say that you will do what you claim
+		- "We've helped people like you"
+		- Have to get rid of the credibility gap - why should the person believe that you can actually help them?
+- Best practices:
+	- Find your list source
+		- Place where you can find several of your target [[Ideal Customer Profile]]s
+		- Do this *before* you write the email. Remember - it needs to be targeted right at these people!
+	- Build and clean your list
+		- Includes some research and personalization
+		- Remember that the personalization needs to actually be relevant
+	- Bring your [[Unique Value Propositions]] and [[Unique Selling Propositions]] and references
+	- Find templates you like
+		- Absolutely fine to steal
+	- Write, Review, Sleep, Refine, Send
+	- More:
+		- 4 - 8 touches (closer to four)
+			- 2 in the first week, slowing down from there
+			- Don't be afraid to be persistent
+			- Remember: you're secretly being helpful to them (as ong as your product is good)
+			- As long as your messaging is on point, they probably won't get crazy upset - not a tonne to lose
+			- If it does happen, reach out and apologize -> maybe you get a meeting
+		- Keep on the same thread
+		- 1-2 contacts / company
+			- Keep it small - get to the people you want to get to
+		- Personalized to a person or very small group
+		- Simple subject lines: {{Your Company Name}} <> {{Target Company}}
+			- Don't spend a lot of time thinking about this - it's a low-benefit time spend
+		- Clear call to action + value - use a calendar link
+		- No downloads, decks, or white papers
+			- The website should act as a digital deck
+			- Time on site is probably measure in seconds - the message needs to be *super simple and obvious*
+			- Can someone understand what you do in a 10-second visit to the website?
+			- Number of links should be low
+				- Can reduce the deliverability of the email - make it mark as spam
+				- Click tracking can also increase the chance of it being marked as spam
+- Key questions the email campaign should answer:
+	- Why you? (founder)
+	- Why me? (buyer)
+	- Why now?
+- Why are these important? It answers the defensiveness of someone receiving a cold email
+- If you don't answer these, your reader will be in a defensive posture -> probably won't continue
+- Don't have to explicitly answer these questions, but you should know the answer if you finish reading the email
+- Specific Contact -> Message:
+	- ![[Pasted image 20230714103630.png]]
+	- Find an excuse to connect!
+	- Even in a campaign, just take a few minutes and write a single personalized sentence for each person individually
+		- It doesn't scale, but at this point in the journey it doesn't have to!
+	- It's ok to break out of the template if it makes sense
+	- Example:
+		- ![[Pasted image 20230714104009.png]]
+		- Don't hit the exact same personalization point more than once - that's weird
+			- Find something new / related!
+		- "Be a person"
+- More best practices:
+	- List first then write copy
+	- Keep language simple
+	- Three key questions
+	- Leverage Linkedin just for connections, no more
+		- Highest connection rate comes with no message at all
+		- Use the connection medium that the customer prefers - if they happen to like Linkedin, then feel free to use that
+	- Use open rates to make phone calls
+		- Cold calls are generally low-value, high-effort
+		- Make the calls timely - If you see someone opens the email multiple time, just grab the phone and phone them. "Hey, I sent you a few emails - not sure if you managed to find the time to open them"
+			- Likely this means that they have a question but don't have the energy to actually send the email to answer the question
+			- Then your phone call comes at a time when you have their attention!
+- Persistence is key!
+	- Don't mistake no response for No
+	- Stay out of your head
+	- What is 1 more email worth to you
+		- Same question as what is a contract worth to you?
+		- Would you avoid sending an email for e.g. $50 000? Or whatever the contract might be worth
+	- Thread your follow up
+	- Make sure it's the right person to follow up with
+ - Email campaign is not so much a bunch of individua flowers, but more just consistently hitting the same drumbeat every time
+	 - People have a short memory
+	 - Repetition is key!
+- 
