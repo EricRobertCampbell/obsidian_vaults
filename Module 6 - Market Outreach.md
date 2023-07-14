@@ -1,0 +1,174 @@
+### Module Overview
+- Shift in attention, &c. bufget
+- Less time insude the building and more time outside - meeting peole, gathering information, &c.
+- Time to go gather some information
+- Data-informed decisions
+- Most important: consistency
+	- Need to be doing this consistently: having conversations, finding new conversations, evaluation the criteria of the onversations
+- Avoid pipeline volatility
+- As leads turn to paying customers, you spend less time generating new leads / learning new things, so then you need to start the whole process all over again, leading to spike and slumps in revenue, &c.
+	- Also creates lots of pressure on the new campaign, because if youre wrong the whole process stalls and you might run out of money
+	- Better to do this consistently - avoid thse spikes / slumps
+- Evaluate your expectations - especially around the human capital
+	- Someone doing market outreach part-time who doesn't really have a background in it won't get great results
+	- Need to actually spend time / effort on it
+- Market outreach will be in place for the lifetime of the business
+- Worst-case: no good options to quickly develop opportunities and conversations
+- Similar to consistency in the [[Ideal Customer Profile|ICP]]
+- Focus on having as many conversations as quickly as possible and getting to yes / no as soon as possible - get the data!
+
+### Campaign Creation and Execution
+#### Critical Concepts
+- Goal: plan, execute, and learn from eery one of the customer acquisistion strategies
+- Identify the why behind every strategy
+- Leverage the learning to create better campaigns moving forward
+- What is a campaign?
+	- Initial though: email campaign
+	- Can actually be any attempt to start a conversation with a specific goup / individuals through a specific channel and with a fixed start / end date
+	- Think about it as a concentrated effort to get an at-bat
+	- Small test campaigns to get high levels of interaction
+	- Figure out the 'bottom of the funnel' to figure out the 'top of the funnel'
+- What is the stage-relevancy of the campaign?
+- Small bets - you want just enough data to help launch our next campaign
+- Limit exposure to the first impression until you're sure that it looks good, makes sense, &c.
+- Small both in quantity (# people reaching out to) and short in duration
+	- Don't invest too much in any one
+	- Quick iteration
+	- Once you know what you're doing, then you start putting more resources into the m and also they become longer
+- Always know the *why* behind your campaign
+	- Like [[Ideal Customer Profile|ICP]] - understand why they're you're the ICP
+	- Understand why you're doing this push
+	- Are you testing
+		- The message?
+		- The medium?
+		- To gather some other kind of data?
+	- Each campaign build on the previous ones; each campaign sets the stage for the next one
+#### Three Phases
+- Pre-launch, Launch, Post-Campaign
+- Pre-Launch
+	- Pre-launch is where you have hte most control over the success / failure
+	- Not optimizing for the most number of campaigns - instead, you want to aim for lots of conversations $\to$ get more information to inform your campaigns
+	- This is where you sweat the details
+	- Run the risk of a terrible campaign where you learn nothing and may even alienate your potential customers
+	- Details are tedious and insignificant but extremely important
+	- Final gut check to see if it's the right time, &c.
+	- Step back, reframe
+- Launch
+	- Prepare to be responsive
+	- Alsmost surely your campaign will have to change in the middle of it
+	- Engage with your customers
+	- What does success look like? What's the goal of the conversation?
+	- Don't mistake a lack of response for lack of interest - you don;'t know what's going on with that person - they may be mulling it over, asking for permission, &c.
+- Post-Launch
+	- Gather and analyze the data
+	- What ata do we need to see to be better informed at the end of the campaign? This is where you do that
+	- Retool, re-scale, and launch again if successful - otherwise, learn from it and try something different
+	- Having a rich, data-driven stream of activity with insights and data will look really good to investors as well as helping the company
+	- **Be objective about the data** - it's easy to 'blame the market'
+	- 
+#### Exercise and Template Coaching
+- Campaign and execution tracker
+- ![[Pasted image 20230713163742.png]]
+- What language are you using for this campaign?
+- Data source link: basically the people that you're running the campaign against
+- Make sure there's a relationship between the number of steps and duration
+- Tags: basically organize it like in your [[Customer Relationship Manager|CRM]]
+- Pre-launch hypothesis: what are you trying to test with this campaign? How did I define success before the campaign started?
+- MQL - Marketing Qualified Leads
+	- Anyone who has responded either neutrally or favourably to the campaign
+- What are vanity metrics and which are useful? E.g. a 50% open rate for email on a campaign is great, but if the reply rate is 0% then it's probably not a great campaign
+- MQL is a very important number!
+- Accounts: Once your foot is in the door, it's easier to understand things, ask questions, get introduction to better fits, &c.
+- Post-Campaign Analysis: synthesize and contextualize the data. Be verbost - what worked and what didn't work? 
+
+#### Case Study
+- Company creates live-streaming solutions in a box for public schools (presumably for sports)
+- Tight [[Ideal Customer Profile|ICP]] - Focusing on schools with good sports teams
+- Data was easy to come by - coaches, budget cuts, &c. Also the ranking of the actual team
+- Important part  was pre-launch
+- Pitch was to have the sports team create additional revenue by live-streaming
+- Season to get in front of them was very cyclical - went off the school calendar
+- Focused on only the highest-performing schools
+- Response rates were good
+- Hypothesis about the sales was also correct
+- Goal: always have campaigns running
+	- Different regions, different sports, public vs. private schools, &c.
+- As long as there was always a campaign running, there were always leads coming in
+- Could look at the campaign tracker to see the learnings
+- Recycling leads: hitting a lead more than once as part of different campaigns
+	- Understand from the conversations what was a new pain point, priority, &c. and just send the new message to the previously non-responsive [[Ideal Customer Profile|ICP]]
+ - Lessons:
+	 - Hyper-target
+		 - If you can validate a single test, then you can experiment with slightly different parameteres
+	- Don't switch ICPs
+
+### Opportunity Frameworks
+#### Critical Concepts
+- Time to create the collateral to support conversations when you're not in the room
+- [[Minimum Viable Collateral]]
+- Minimal toolbox
+- Build lean collateral (will pivot as you learn more)
+- Understand: don't over-invest in anything until it's proven
+- Only build out insofar as the collateral is supported by data from the market
+- Ensure that regardless of the communication medium, the message should be consistent
+- Goal: regardless of the channel / medium, the audience should get **three core pieces of information about what the product / service does for them**
+	- Every piece of the collateral should be directed right at the [[Ideal Customer Profile]]
+	- It's not what you do, it's what you do **for them** - focus on the  benefits to the customer, not *how* you do it. (The customer probably doesn't care about how something works - they just have a problem that they want solved as quickly as easily as possible)
+- No piece of collateral ever closed a deal
+	- Potential buyers will probably not spend too much time looking at this
+	- Collateral supports the conversation when you're not there
+	- You are the best piece of collateral - the expertise, knowledge, and enthusiasm
+	- "Sales is just the transfer of enthusiasm"
+	- Don't just send collateral - try to turn it into a conversation / meeting
+	- Once you have product-market fit, you're creating collateral to support that messaging
+#### The Only Collateral You Need
+- Three most important pieces of collateral:
+- Website
+		- Doesn't need to be complex or thorough
+		- Does need to be clear - what do you do for them?
+		- Clearly understand the problem that you solve and how you solve it
+		- **not** the place to talk about the features - that is too detailed!
+		- Should be a light, one-pager
+		- Elicit one reaction - 'Oh, that's interesting - I'd like to learn more'
+			- Generally people are getting there only because you directed them there
+		- Don't put anything on the website that will allow someone to qualigy themselves out
+		- Don't overbuild it - pivot!
+- Pitch Deck
+	- Not for investors - for people that you've identified as the [[Ideal Customer Profile]]
+	- Should be website in slightly more detail
+	- Easy to digest
+	- 10 - 15 slides
+	- Bullet points - high-level concepts
+	- Someone should be able to quickly go through and understand it even without you there
+	- There to complement that discovery that you did in the customer framework
+	- Elicit a response from the market
+- Demo
+	- Don't do the demo first - instead do the discovery process first
+	- Demo should be personalized for the specific customer
+	- Don't let it get scripted
+	- Demo should be highly choreographed and targeted to the customer
+	- Protect the product - don't show anything that is wonky  buggy. Just skip over it, use a screenshot, or something like that.
+	- Think carefully - do you even need to do a demo? Maybe you can make it really easy for them to use a simple version or something like that
+#### Best Practices
+- Everything in market development needs to be ready to iterate, &c.
+- Stage relevancy - you probably don't need as much collateral as you think you do
+	- Sometimes you don't need a video - just talking is enough. Describe the product and what it does for the client
+	- Tell a story
+- Avoid building the collateral yoursefl
+	- Lots of resources out there to get it professionally built
+		- Outsource the design part
+	- It will probably look better than what you would do yourself
+	- e.g. Fiver, Upwork
+	- Make sure to get the templates back from them so that it's easy for you to edit
+		- Remember - you want to be ready to pivot
+- Don't send unqualified materials
+	- Don't believe them when they say that they'll look at it if you send it over
+	- Probably won't
+	- What gets deals done is process and intentionality
+	- They're not going to review stuff you send them
+	- When they ask for collateral, instead of just sending it over, ask them for exactly what they're looking for
+		- What will you do with the collateral?
+		- Maybe I can answer the question for you?
+		- You want high-touch conversions at the beginning to give you more information
+		- Try to turn it into a conversation
+	- Don't promise to send material you haven't created yet - it's probably not worth the time to create something. Instead, try to turn it into conversation

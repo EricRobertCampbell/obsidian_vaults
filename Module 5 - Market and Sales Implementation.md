@@ -1,0 +1,60 @@
+### Introduction
+- Data-driven hypothese about the market
+- Have to test the system
+- Tools to test whether we have the right idea
+- Improvided path -> proven method
+- Crafting the sales funnel
+- What are the different stages?
+- What are the most capital-efficient ways to do that?
+- **Keep it lean** - you'll have to iterate
+- What data are we going to collect - know this before going out!
+- Once you're in the market, it's too late to design the experiment
+
+### Critical Concepts
+- Predicable, repeatable sales process
+- Need a common language
+- What is a sales funnel?
+- To close one customer, you interact with a bunch
+- What gets measured gets done
+- Improvised to intentional market development
+- What sort of data?
+- What are teh most effective ROI lead sources?
+- How much revenue can you expect to bring in?
+- When will that happen?
+- What questions should I always be asking to ensure that I'm in touch with my business?
+- Managing expectations - not the least yourself!
+	- Yourself
+	- Those around you 
+	- Investors
+- Graduation criteria - when does a prospect move from one stage to the next?
+- In order to spend more time on someone, they need to give a demonstration that it'll be worth it
+- Customizing our funnel - what data would better inform our decisions and ensure taht we're using the market development budget efficiently?
+
+## CRM (Crtical Concepts and Best Practices)
+- You have a marketing a sales funnel
+- Need a tool to help you manage it
+- CRM (Customer Relationship Management)
+- Should be the single source of truth
+- Data-driven, well-informed decisions
+- CRMs can range from your brain, to a simple spreadsheet, to a huge enterprise-grade Salesforce or something
+- Choose one that's lean - you'll be pivoting a lot, so make sure you choose one that can change as you do that
+- This will keep you grounded (see the actual state of your business)
+- Features to look out for:
+	- Should sit inside your inbox
+	- Tracking opens / clicks
+		- Enables timely and relevant follow up conversations
+	- Some sort of template capabilities
+	- Multiple pipelines and customization
+	- Slightly further out:
+		- Automated email campaigns
+		- Automated response / follow up
+		- Task management
+		- Identify velocity of deals
+- Helps to stop pipeline leakage
+- Some best practices:
+	- Lots of testing - run it through the paces and ensure that you understand how it works and how it will help you work
+	- Once the data is in, it's hard to get it back out (and switch)
+	- Consider having someone else set it up for you
+	- Find a tool you can grow into
+		- Don't build your own! That's a good way to waste a lot of money and time
+		- Don't worry - if you scale like crazy then you can deal with it then
