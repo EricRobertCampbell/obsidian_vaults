@@ -1,0 +1,247 @@
+## 1 Prepare to Scale
+### 1.1 Introduction
+- Execute on finding product-market fit, finding customer, and building a predictable and scalable revenue pipeline
+- Have to consistently work at it
+- Can't just go through the steps and that's it - you need to be continually doing this
+- Final section is the playbook to execute on the product-market fit, process of making an ICP a customer, and to scale
+- In most cases, this is the longest part of the program (months to years)
+- Cover:
+	- Run a data-driven strategic pipeline review
+	- Develop and implement an onboarding framework
+		- What's the best framework to keep in customers and getting new ones?
+	- Product-market feedback loop
+		- As new features are being developed, how is that informed by the market? How are the new features communicated to the market?
+	- Framework for recycling ICPs
+	- Wrap up by revisiting the talent roadmap
+		- Who needs to be brought on board to scale revenue?
+## 2 Pipeline Management
+### 2.1 Critical Concepts
+- Need to be involved in everything going on with the market development
+- Hold a regular (weekly) strategic pipeline meeting
+- Where you ahve the most control over your go-to-market efforts
+- Track the progress, analyze the data, &c. to understand what;s working and what isn't
+- Going to market with intent
+- Don't overcorrect, overpivot, or overlook important data
+- Look at the work from the prior week and hold people accountable for that work
+	- "We" doesn't get anything done - individuals will need to get specific tasks done
+- In the strategic meeting, manage towards your hypotheses
+- Where are you successful and unsuccessful?
+- Not the time for feeling
+	- Highly choreogrpahed
+	- Predictable each week so everyone understands what is required
+	- Leverage the [[Customer Relationship Manager]]
+	- Data-driven, not feeling-driven
+### 2.2 How to Manage Your Pipeline
+- How do we do this weekly strategic pipeline review?
+- **very important**: Get the meeting on the calendar and never move it
+	- Hub for all things revenue generation
+	- Treat it as the priority
+	- 60 - 90 minutes
+	- Dive into all the data
+- Once you're in the meeting:
+	- Start at the bottom (of the funnel).
+	- Work your way up the funnel
+	- 4 questions:
+		- What did we do last week?
+		- What did we say we would do last week?
+		- What are we going to do this week and by when?
+		- Problems, blockers, friction?
+	- This sets the baseline
+		- No anecdotes or feelings - just the data
+	- Every week should be comparable to the others - we can use the data
+	- Patterns
+	- Only possible when the data is uniform
+	- Should be able to answer the questions using the [[Customer Relationship Manager|CRM]]
+		- All the information should be in the [[Customer Relationship Manager|CRM]] - if it's not there it doesn't exist
+		- Don't waste time - focus on revenue generation, not data stuff
+	- Identify the places where you can "hug the elephant"
+		- People need to be accountable
+		- Should be able to talk about the 'elephant in the room'
+		- Should also be comfortable talking about any problems
+	- More marketing resources towards the leads with the best probability of being closed
+	- Later, this meeting will include a review of the existing customers
+		- First worry about the revenue you do have, *then* about the revenue you might get
+	- Money in hand > Promise of money > anything else
+### 2.3 Best Practices
+- Needs to be mandatory and immovable
+	- Otherwise it communicates that revenue is not mandatory
+	- Treat it with the seriousness that revenue deserves
+- Organize the [[Customer Relationship Manager|CRM]] *before* the meeting
+	- Drags the meeting on
+	- Friction with the market development when some people have data and others get away with not using it
+	- If the CRM is starting to fall begind, that probably means that the sales efforts are similarly falling behind
+	- Poor [[Customer Relationship Manager|CRM]] hygiene is a symptom of poor market development execution
+ - Accountability
+	 - Everything needs a next step and an owner
+	 - Don't ignore the elephant in the room when something is starting to fall apart
+- Avoid rose-coloured glasses
+	- Conservative with everything in the pipeline
+	- E.g. probability of deals being closed
+	- At the beginning you won't have much historical data to work off of; making conservative estimates mean you will be prepared if something goes wrong and encourages you to keep the foot on the gas
+- Avoid vanity metrics
+	- E.g. avoid a tonne of low-quality leads clogging up the works
+	- No wastes of time
+	- Avoid having lots of different [[Ideal Customer Profile|ICP]]s
+	- Avoid stalled pipelines
+		- E.g. the same people are at the same stages of teh pipeline for multiple months
+		- If they haven't moved in months, they probably won't
+		- Should you move on? Communicate with them
+- Differentiate Process vs. People Problem
+	- For the process to work, people need to be run it as designed (otherwise it's not a real test)
+	- Are people doing their jobs well and on time
+	- Does the process need to change or does the person need to?
+	- Shouldn't be a big deal to tell someone to change - especially at the beginning, you probably won't be ideally suited to the task
+	- Be realistic and contextualize the results
+## 3 Customer Onboarding
+### 3.1 Critical Concepts
+- Lots of effort on how to get customers
+- Time to shift focus towards existing customers
+- Protect and grow the revenue from existing customers
+- As we get customers, it gets easier to get new ones
+	- New referral points
+	- New market information
+	- Credibility with other prospective customers
+ - Where it typically goes wrong:
+	 - Hand onboarding to the customer - here's a manual or something
+	 - Doesn't really work at the early stages
+	 - Work isn't done when the sale is completed
+	 - Now you're trying to make the product as sticky as possible
+	 - Good first impression, especially for the users who weren't part of the sales process
+	 - References or other introductions to other customers
+	 - Protect the product - put it in places where it'll succeed
+	 - Should have been underpromising - time to overdeliver
+	 - Identify: what's the right usecase for the technology? How should we introducce it, &c.
+- Part of the market development budget will be siphoned off to existing customers
+- Easier to grow revenue from an existing customer than to get it from a new one
+- How to build the framework?
+	- What does success look like?
+	- What changes to their workflow will they see? What would make them happy?
+	- You need to be setting expectations - timelines, responsibilities, &c.
+	- Where is the technology failing and when us the customer not really giving it a go? What should you be doing to fix it?
+- Different frameworks and tools
+	- Think about how you will do the onboarding *before* you actually do it!
+	- Which pieces of the template make sense for your company?
+	- Should you send it or just communicate / deliver it verbally? Remember you want to be agile and iterate quickly!
+ 
+### 3.2 Best Practices
+- Don't invent something new!
+	- Standard processes: **Benchmark against competitors!**
+	- May be able to create a competitive advantage by improving the existing process
+	- Try to reverse-engineer their onboarding process
+- Over communicate
+	- Communicate expectations
+	- Try to do it verbally - long books / emails are not going to get read
+	- Hands on with the user - make sure they have a good experience!
+		- Probably they weren't part of the buying process - you should be selling the value to them!
+		- Probably making their job more effective and efficient
+		- Make them your friend - positive experience is key!
+	- Identify the work you're creating for the customer
+		- Probably they need to do something to get everything set up
+		- *white glove* - make this part of the process as easy as possible
+		- Strike a balance: asking for feedback and letting the customer direct the onboarding process
+			- You should be the leader: don't just ask them what they want - tell them what they should be doing
+			- Of course, still be open to change!
+			- Reduce the cognitive load on the customer
+
+## 4 Nurture Framework
+
+### 4.1 Critical Concepts
+- Not all deals will move with the same pace
+- Laser focused on the ones that will give you revenue
+- Shouldn't ignore qualified leads just because they're slow
+- Long term outreach / communication strategy
+- "Nurture Framework"
+- 10 great opportunities:
+	- Only 4 are ready to close in the next few months. Should you ignore the others?
+		- No - don't let them forget about you
+		- Strategy to keep people in the funnel warm
+		- It's an impressions game - when something happens to make the paint point relevant, you want them to think of you
+		- Need to stay in touch with them
+	- When you have a slow month, you have a ready-make group of people who are at least partway through the process - perhaps a more efficient way to getting revenue
+- Way of making sure that you make the most out of any conversation
+- Critical to avoid cold outreach - this is a way of reducing that
+- Have to become more intentional
+	- E.g. need a specific nurture campaign, should be int he [[Customer Relationship Manager|CRM]], &c.
+	- Need to be resourced properly
+	- Manage and track the effectiveness
+	- Pipeline of sequential campaigns - they should always be hearing from you in one way or another
+  
+### 4.2 Best Practices
+- "Never say never"
+	- Don't forget to follow up on "Closed-Lost" deals
+	- Checking in with one you lost - how are things going with the decision they made?
+		- Especially if they are early in the onboarding process
+		- Be helpful and thoughtful - can you replace what they went with?
+	- Good activity for a slow month
+	- If you consistently do this with all of the deals that you lost, you might get a deal or something out of them
+	- Worst case - they are already lost, so you can't really lose them more
+	- "When's the contract term over? When's a good time for us to talk about how happy you are with COMPETITOR?"
+- Educating is the most effective outreach
+	- Don't be a pest
+	- Educate them on the problems you solve
+	- Educate them on your customers and the problems they have solved
+	- Don't need to worry about a content strategy
+	- Back to *impressions*
+		- Should be positive!
+		- "Every time they write I learn something"
+- Important product updates
+	- Sharing that a new feature / product just came online
+	- Maybe they're looking at building this in house or opening up a new pain point / trigger event
+- Don't always ask for something in return
+	- Open-ended asks are OK in nurturing
+	- Directed questions can be very pushy if it's on hold
+	- If the content you provide is always the same, people tune it out - diversity in messaging
+- Be as personal as possible (just like in Customer Acquisition Strategies)
+	- Have to be following the people in your [[Ideal Customer Profile|ICP]]
+	- E.g. they hire a new person that looks like a good fit, raised a round of fundraising, &c.
+	- Show them that you're doing your homework
+	- Good differentiator between the other stuff in their inbox
+	- Organizational changes - if you see that the economic buyer has changed, that's a good trigger event
+		- Good time to make a change - they probably want to shake things up!
+	- Do something more to stand out from the crowd
+	- When they are ready to move, you want to be the vendor that is consistently in touch and top of mind
+
+### 4.3 Case Studies
+- Company that livestreams sports for high school athletics
+	- Narrow buying window (July - September) because of school budgeting situations
+	- Spend the rest of the year doing nurture outreach
+	- E.g. speak with someone in October, then follow the teams and send them a quick note (*not a sales pitch*) when they won
+	- Lurk on the comment section about slow competitors and take screenshots about people complaining
+	- Send it to the school and highlight it as an issue - make them aware of the problems, and look who has the solution...
+- Company that provides tax credits as a service
+	- Look for some of the smaller tax credits the companies can use
+	- Prove the value of the credits
+	- Creates like-like case studies
+		- Every time they did the credits for e.g. a fast food company, they could email that out to the CPA and show a specific example of the tax credits they could use
+	- Take the information you're learning from your clients and use that to generate new clients (make it relevant for other potential clients)
+
+### 4.4 Exercise and Template Coaching
+- Carbon copy of the Customer Acquisition Strategy template
+	- That one is for the top of the pipeline; this one is for people at other stages of the pipeline
+	- Need to organize the groups by level of engagement
+- ![[Pasted image 20230718110549.png]]
+	- Goals and hypotheses
+	- Build strategies that are specific to specific groups
+		- E.g. reach out to slightly different titles, different geographic areas, &c.
+	- Acquisition channel: email, phone, &c.
+	- Tools / resources: remember you need to protect the budget
+	- Also have a launch date
+	- ![[Pasted image 20230718110752.png]]
+ 
+## 5 Talent Acquisition
+- Talent Roadmap Revisited
+- Evaluated the existing team and what / who you would need to start to scale
+- Have some more clarity about the team and the market
+- Time to re-evaluate who / what you need for scaling
+- In Market Development, we're focused on learning - doesn't need to be scalable
+- Want to avoid hiring too many at the early stages
+- Learn everything about creating revenue so you can build a playbook to scale
+- Want to hire for scale; avoid hiring for market development
+- Identify: what stage are we in? Do we have a solid foundation? Are we ready to scale?
+- Remember the existing team: they might be doing jobs that people aren't really suited for. OK for beginning, but might be that people have to move within the company
+- Separate the job from the person
+- Give people the opportunity to be honest about their performance
+- Important to ensure that people are happy about where they are
+- "If I'm successful, what does the talent roadmap look like?"
+- When and how is the existing system going to break?
+- How can I start attracting, &c. new talent to bring on board?
