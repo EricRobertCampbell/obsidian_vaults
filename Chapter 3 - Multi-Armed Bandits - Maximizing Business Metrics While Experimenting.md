@@ -29,7 +29,7 @@ $$
     - The *click model*
     
 ### A/B Testing as a baseline
-- In [[AB Testing - Evaluating a Modification to Your System|Chapter 2]], we developed A/B Testing with the goal of taking the fewest possible measurements consistent with a [[False Positive]] rate < `0.05` and a [[False Negative]] rate < `0.2`.
+- In [[Chapter 2 - AB Testing - Evaluating a Modification to Your System|Chapter 2]], we developed A/B Testing with the goal of taking the fewest possible measurements consistent with a [[False Positive]] rate < `0.05` and a [[False Negative]] rate < `0.2`.
 - These probabilities are unitless -> we can apply them to lots of different systems - no need for domain knowledge
 - when optimizing an engineered system, we want to increase a business metric:
     - Use an experiment to determine whether A or B is better
