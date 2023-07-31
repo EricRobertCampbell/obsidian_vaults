@@ -1,5 +1,5 @@
 
-## Modules
+## 1 Modules
 - [[Module 1 - Welcome to MXP Online]]
 - [[Module 2 - Market Foundation]]
 - [[Module 3 - Market Discovery]]
@@ -10,5 +10,6 @@
 - [[Module 8 - Final Thoughts]]
 - [[Module 9 - Raising Venture Capital]]
 
-## Workshops
+## 2 Workshops
 ![[TAIRA Workshop 2023-07-14]]
+![[TAIRA Workshop 2023-07-31]]
