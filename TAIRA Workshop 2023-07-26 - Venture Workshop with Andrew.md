@@ -1,0 +1,99 @@
+- [Link](https://us02web.zoom.us/rec/play/5p0b1bl5r_CpXpWR8QSKmyrkpE_fuz0bLwW_nUTPdvBjA9Rh196bRYqIT7zm2xASVm2kFwSlfcVDYIzL.Y06EyQbKpgI0qldp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FGZcCjh4FWOvnKRr9pGsFhFpQi2I2sEV1dXuijTtPcsiNFv0Rszk5NyZL8m95nEXY.rS1lYJEyhCK5hVhm)
+- Overview of what's happened in the [[Venture Capital|VC]] markets in the last year? Where do you see things trending?
+	- Reserve has raised interest rates -> makes it harder to attract VC dollars
+	- Public markets in the US have bounced back
+	- Lots of capital being put into new funds (Venture Capital)
+	- Probably see a different style of investing
+	- Enormous amounts of investing - pace has increased
+		- Means that a few people will make lots of money, but most will lost
+	- Next 2 - 3 years - probably be more of an attention on revenue (rather than pie-in-the-sky growth potential)
+	- Reaction up and down the chain of capital - stronger emphasis on revenue, sustainability, &c.
+	- Good news - lots of the graduates of the program are getting funded because of the emphasis on revenue
+	- Bootstrapping to profitability is a better approach than relying entirely on venture capital
+- Are you seeing this across the border (American and Canadian)?
+	- Bias in terms of conservative venture
+	- [[Venture Capital]] that favours a path to profitability
+	- Insists on not just throwing spaghetti at the ceiling
+	- Alberta founders have been more conservative
+	- More capital and more experiences funds in [[Alberta]]
+	- Firms in the states seem to be following the lead of [[Alberta]]
+	- He's positive about the [[Venture Capital]] in [[Alberta]]
+	- Be wary about an overinvestment - do you know what to do with the money?
+		- Huge difference between needing money to stay in business and needing money because you have things figured out but need money to grow
+	- If you're pre market fit what's in your data room? Probably not a lot!
+	- Things in the [[Venture Capital]] generally run in about 10-year cycles
+		- The [[Venture Capital]] has 5 years to invest and then in the next 5 years can only invest in the ones they've already invested in
+- As you're investing in the later half of the 5 years, as an investor, are you making bets you think will turn around in less than 5 years?
+	- Yes
+	- Point of [[Module 9 - Raising Venture Capital]] was to get more comfortable with the process
+	- Good question - the fund you're considering investing me in, what's the horizon for that? Any [[Venture Capital]] should answer that honestly, and will give you an insight into their motivations
+	- Where are they in the life cycle of the fund?
+	- Even asking the question makes you sound thoughtful, like you understand the investor, want to help them with the goal, &c.
+		- When you raise money, the [[Venture Capital]] is your customer - treat them with the same care as with any other customer
+- What year is the [[GrowthX]] fund in?
+	- Year 0
+	- Probably only have time / money for one more company (not investing the normal way)
+	- High interest rate actually helps this fund since there's such a focus on revenue
+	- If you are with a [[Venture Capital]] that is early in the process, then you're basically marketing material
+- How do rolling rounds affect that?
+	- Typically raise a fund in multiple closes
+	- Typically hold off as long as possible - the clock starts at the time of the first close
+	- Also, you only have X months to raise the rest of the fund
+	- Start of the [[Internal Rate of Return|IRR]] clock
+	- [[Special Purpose Vehicle]] are becoming more common - only exist to invest in a single company
+		- Kind of the opposite of a normal [[Venture Capital]] - start with the opportunity and then go raise that money from others
+	- What's the advantage of that approach?
+		- The person running it doesn't need to be a money manager
+		- Lots of stuff that goes with that that they don't want to do
+		- Avoided by the [[Special Purpose Vehicle|SPV]]
+	- Need to be aligned with your investor (if they want to use an [[Special Purpose Vehicle|SPV]])
+		- One disadvantage is that when you agree to this they then need to go get some money - there's a delay
+- When you're getting into the early stages and have some interest, does presenting urgency on our end is that a positive or negative for the [[Venture Capital]]?
+	- Need to find funders that are good fits for you
+	- Part of that is the sense of urgency
+	- Don't create a sense of false urgency
+	- OK to communicate that you need some capital because you were focused on getting customers - e.g. you can't fulfill orders unless you have capital - that's a good problem to have!
+	- You have a problem that money can solve!
+	- That can create a specific timeline
+	- Is the urgency internal or external?
+	- That kind of urgency should be communicated
+	- Typically you want to start the conversation with investors from a place of strength - 4-6 months of salary, &c. How does that affect the conversation?
+		- Personal position: place of strength / weakness is a bit silly
+		- Invite people to be the kind of person that you want them to be
+		- There are definitely investors who would take advantage of that situation
+			- Probably want to avoid them
+		- The fact that you're in a time-pressure situation may reflect negatively on you - why are you in the situation? But not necessarily - it could be an external influence or something like that
+		- Should be a conversation to see good fit
+		- (Participant) often the questions are about trying to uncover the decision process. Being honest and seeing where you've learned from the experience is key
+			- Andrew agrees - here are the mistakes I've made, here's what I learned, here's what we're going to do next, &c.
+- What are the drivers that prompt you to suggest a follow-up investment?
+	- Say what you're going to do and do what you said you'd do
+		- They check!
+		- Exponential growth of a company is a long-term thing - in the short term there'll be fluctuations. Hard to see if you're on the right track in the moment
+		- [[Venture Capital]] is not expecting to see the exponential!
+	- Are you continuing to communicate with investors throughout the journey? If not, they automatically do not get follow-up investment
+		- Not only the positives! But be sure to communicate what you're doing to ameliorate this in the future
+	- What is the team dynamic?
+		- Can you attract and maintain top talent?
+	- Are you doing the right things for your go-to-market?
+		- Are you chasing the newest shiny products? E.g. chase a big investor if you just build a new feature, &c.
+	- Downstream investors are really important
+		- They know that they will not be the only investors
+		- Capital risk - one of the 11 risks for [[Venture Capital]]
+- Do you ever act as lead investors?
+	- Yes
+	- Lead investor - who's going to lean in and do the most diligence and write the documents and ...
+	- Lots of legal documents to be signed on Series A (e.g.) - it's the lead investor that writes the documents and lots of people sign on
+- Situation - just now talking to a US investors - US investor is pushing for a high evaluation (based on entry to the US market), others want a lower one. What to look out for?
+	- All investors are working their own priorities - have to understand them
+	- May be because they have a limit on how much ownership they can have -> need a higher valuation to write a bigger cheque
+	- US investors typically need a higher rate to satisfy the investors
+	- Stacked preferences - every time you do a round of investors, the later ones have stacked preferences (who gets what on payback)
+		- Early investors may need a huge investment just to get anything back at all
+	- Probably local investors are pitching reasonable valuations as a selling point - they may not be able to match the higher valuation
+- How do we engage with you (Andrew)
+	- Email at growthx (andrew@growthx) or something like that
+- There's a template for the investors' update - this should start immediately
+- Let [[GrowthX]] know about positive events!
+- Even if they are not the perfect investors, they know lots of other venture funds -> can help in that way
+	 
