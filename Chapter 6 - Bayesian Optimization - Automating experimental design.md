@@ -11,7 +11,7 @@ Removes the subjectivity found in RSM:
 - Engineer doesn't have to decide which parameters to measure; that's left to the algorithm
 - Steps can be automated, leading to less engineer time mucking about with it
 
-## Optimizing  single compiler parameter - a visual explanation
+## 1 Optimizing  single compiler parameter - a visual explanation
 
 ![](./sweet2023-ch06-fig1.png)
 
@@ -23,7 +23,7 @@ Basic idea: we'll come up with a set of parameter values, then measure in a real
 
 We'll start by optimizing over a single parameter.
 
-### Simulate the compiler
+### 1.1 Simulate the compiler
 
 
 ```python
@@ -44,7 +44,7 @@ def jit_plus_server(parameters):
     return cpu_time.mean() + 0.05 * np.random.normal()
 ```
 
-### Run the initial experiment
+### 1.2 Run the initial experiment
 
 Bayesian optimization will model the response surface from measurements of the CPU time. However, we need to start it off somewhere! Answer: just choose whatever value you want. We might as well start from the centre: measure at 0.5.
 
@@ -58,7 +58,7 @@ value
 ```
     1.5731767440157667
 
-### Analyze: model the response surface
+### 1.3 Analyze: model the response surface
 
 First we model the response surface, then we take some measurements.
 
@@ -66,7 +66,7 @@ Here is a picture of the response surface. It would be nice if we got some code 
 
 ![](./sweet2023-ch06-fig3.png)
 
-### Design: Select the parameter value to measure next.
+### 1.4 Design: Select the parameter value to measure next.
 
 We next want to measure the paramter value that would give us the most information. As you can see from the picture, there are two places where the uncertaintly is maximized - 0 and 1. We can choose either of those to measure next. Arbitrarily, we choose 0.
 
@@ -91,7 +91,7 @@ Basic idea:
 
 We're going to keep doing this until the response surface stops changing.
 
-### Design: Balance exploration with exploitation
+### 1.5 Design: Balance exploration with exploitation
 
 We could continue to choose the parameter values that minimize the uncertainty - that is, improve the quality of the surrogate function. But at some point we don't really care about that - we want to decrease the CPU time. Just like with Thompson sampling, we want to balance smplaing places we know against the possibility that a dfferent parameter value might be better.
 
@@ -110,15 +110,15 @@ Here are the results of applying the same kind of process multiple times:
 
 The values seem to be converging on 0.15. Once they reach there the values stop changing, so the experiment can stop.
 
-## Model the response surface with Gaussian process regression
+## 2 Model the response surface with Gaussian process regression
 
 How did we come up with that response surface, and especially the uncertainty? Gaussian Process Regression. First we'll try to get the dashed line (the mean estimate), then the grey area (the uncertainty).
 
-### Estimate the expected CPU time
+### 2.1 Estimate the expected CPU time
 
 Say we just have the first two measurements. We want a function to estimate the value at any other parameter value.
 
-#### Take an average
+#### 2.1.1 Take an average
 One very simple way would be to simply take the average: (1.54 + 1.21) / 2 = 1.375. Let's start there.
 
 ```python
@@ -132,7 +132,7 @@ class GPR1:
         return self.mean_y
 ```
 
-#### Weight nearer measurements more
+#### 2.1.2 Weight nearer measurements more
 
 This is obviously not the best estimate. One way to improve it would be to weight the measurements nearer to where we're estimating more and those farther away less. We take a weighted average, where the weight is related to the distance between the point at which we're estimating and the values for which we measured a parameter value.
 
@@ -201,7 +201,7 @@ print(gpr.estimate(0.4))
 
 To create an estimate, GPR takes a weighted average of measurements and uses a kernel fnction for the weights. This is the basic idea, but there's one more thing we need to take care of.
 
-#### Don't overweight clustered measurements
+#### 2.1.3 Don't overweight clustered measurements
 
 Right now, we require that measurements taken near each other have similar values; that's just the way that the model works. To avoid this, we want to downweight any clusters - they shouldn't overpower everything around them. We'll do that using the same kernel function as before, but now on the distance between estimates rather than the distance between the data and the estimate.
 
@@ -261,13 +261,13 @@ ax.set_ylabel("CPU Time")
     
 
 
-#### Compare to RSM
+#### 2.1.4 Compare to RSM
 
 GPR differs from RSM in a few key ways:
 - Linear regression requires the engineer to specify which ters to include in the model; GPR has a hyperparameter, sigma, instead.
 - Linear regression has a fitting step where the beta values are determined. Once the betas are known, you may use the model to estimate the response surface. HPR estimates directly from dat without a fitting step.
 
-### Estimate uncertainty with GPR
+### 2.2 Estimate uncertainty with GPR
 
 Now we need to estimate the model uncertainty!
 
@@ -341,11 +341,11 @@ ax.scatter(parameters, measurements)
     
 ![png](sweet2023-chapter06-output_19_1.png)
     
-## Optimize over an acquisition function
+## 3 Optimize over an acquisition function
 
 we want to find the place where the expectation - uncertainty is greatest - the lowest point of the pale blue section.
 
-### Minimize the acquisition function
+### 3.1 Minimize the acquisition function
 
 In Bayesian optimization, the "expectation minus uncertainty" is a specific acquisition function called the *lower confidence bound*. We can give the function more flexibility by adding in a parameter $k$: `LCB = expectation - k * uncertainty`.
 
@@ -404,11 +404,11 @@ ax.axvline(x_hats[i], linestyle='dotted')
 ![png](sweet2023-chapter06-output_24_1.png)
     
 
-## Optimize all seven compiler parameters
+## 4 Optimize all seven compiler parameters
 
 Now we run into a problem. To find the minimum value of the acquisition function, we evaluated it at 100 different values and chose the minimum. However, with sven parameters that would result in $100^7$ different evaluations - too many!
 
-### Random search
+### 4.1 Random search
 
 One simple way to do the search is called *random search*. Basically,
 1. Generate a random value of the parameters - the *current parameter vector*
@@ -498,7 +498,7 @@ random_search(gpr4, num_parameters=1)
 
 So we're finding the value! For one parameter it doesn't really make sense to do this - we took 1000 iterations vs. 100 by brute forcing it, for for more parameters we quickly see the savings. Also, it actually converges way faster than the 1000 iterations we took - we are accurate to within three decimal places within about 200 iterations.
 
-### A complete Bayesian optimization
+### 4.2 A complete Bayesian optimization
 
 The "inner loop" of an Bayesian optimization loop is
 - *Design*: Minimize the LCB over the surrogate function to find the next parameter value to measure by `random_search`

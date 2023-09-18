@@ -1,0 +1,7 @@
+- Stream with two ponds for the flow
+	- [Family Handyman - Instructions for the stream](https://www.familyhandyman.com/project/build-a-backyard-waterfall-and-stream/)
+- Pipe with hose bib at top
+- Rock garden with two distinct layers and some shrubs
+	- [How to install landscape fabric](https://lawnlove.com/blog/lawn-care-how-to-install-landscape-fabric-underneath-rocks/)
+	- [Calgary WaterWise Plants](https://www.calgary.ca/water/programs/yard-smart-water-wise-plants.html)
+	- [Xeriscaping Information](https://landscapingcalgary.org/2019/04/24/xeriscaping-your-yard-in-calgary/)

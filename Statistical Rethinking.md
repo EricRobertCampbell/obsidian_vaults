@@ -7,7 +7,7 @@
 - [[SR - Chapter 6 - The Haunted DAG and the Causal Terror]]
 - [[SR - Chapter 7 - Ulysses' Compass]]
 - [[SR - Chapter 8 - Conditional Manatees]]
-- [[SR - Chapter 9]]
+- [[SR - Chapter 9 - Markov Chain Monte Carlo]]
 - [[SR - Chapter 10 - Big Entropy and the Generalized Linear Model]]
 - [[SR - Chapter 11]]
 - [[SR - Chapter 12]]

@@ -54,7 +54,7 @@ ways / sum(ways)
 
 These are exactly how plausible we find each conjecture!
 
-## Building a model
+## 1 Building a model
 
 Suppose that we have a globe representing the earth. You want to know how much of the surface is water vs land, so you toss the globe up 9 times and see which is touching the ground. You get the following results:
 
@@ -81,7 +81,7 @@ We do that with the data!
 **Evaluate**
 A Bayesian process can be proven to be the optimal way to update our beliefs, given the data, and _given that the model is an accurate description of reality_.
 
-## Components of the Model
+## 2 Components of the Model
 
 - Variables: In our model, there are three variables
     - $p$, the proportion of water. We cannot observe $p$ directly in the data. Because we don't observe it directly, we call it a *parameter*.
@@ -118,7 +118,7 @@ p &\sim \text{Unifom}(0, 1)
 \end{align*}
 $$
 
-## Making the Model Go
+## 3 Making the Model Go
 
 Now that we have the starting point, we can update the prior distributions to the *posterior*, using the data. In our case, it will be using $Pr(p|W,L)$ - the probability of each $p$, given the observed data.
 
@@ -187,7 +187,7 @@ plot(p_grid, posterior2, xlab="Probability of Water", ylab="Posterior Probabilit
 
 ![png](sr-chapter2-output_9_0.png)
 
-### Quadratic Approximation
+### 3.1 Quadratic Approximation
 
 While grid approximations are ok as far as they go, but can become unwieldy as the number of parameters increases. Another approach that we can take is the [[Quadratic Approximation]]. This approach is to say that near the peak of the distribution, it _basically_ looks Gaussian, which means that we can kind-of sort-of approximate the entire distribution with a Gaussian. This is nice because the Gaussian can be described by only two numbers - the mean and the standard deviation. 
 
@@ -241,7 +241,7 @@ This is actually pretty common for the normal distribution; stuff starts to look
 
 The quadratic approximation method, either with a uniform prior or lots of data, is often equivalent to a maximum likelihood estimate (MLE) and its standard error. 
 
-## Markov Chain Monte Carlo
+## 4 Markov Chain Monte Carlo
 
 The grid method can fail for many parameters, and the quadratic approximation method requires some pretty heroic assumptions. When dealing with multi level models (or just other complex models), with thousands or tens of thousands of parameters, you need something else. [[MCMC]] works by drawing samples from the posterior (without calculating it directly - magic!).
 
@@ -268,21 +268,21 @@ curve(dbeta(x, W+1, L+1), lty=2, add=T)
 
 ![png](sr-chapter2-output_14_0.png)
 
-## Practice
+## 5 Practice
 
-### 2E1
+### 5.1 2E1
 (2)
 
-### 2E2
+### 5.2 2E2
 (3)
 
-### E3
+### 5.3 E3
 (1)
 
-### E4
+### 5.4 E4
 In our case, it means that from our perspective, were we to toss the globe many times, on average we would expect to see the proportion landing on water being about 0.7
 
-### M1
+### 5.5 M1
 Recall the globe tossin model from the chapter. Compute and plot the grid approximate posterior distribution for each of the following sets of observations. In each case, assume a uniform prior for `p`.
 
 
@@ -312,7 +312,7 @@ plot_posterior(5, 7)
 ```
 ![png](sr-chapter2-output_19_0.png)
 
-### M2
+### 5.6 M2
 
 Now assume a prior for `p` that is equal to 0 when p < 0.5 and some positive constant when p >= 0.5. Again, compute and plot the posterior distributions.
 
@@ -345,7 +345,7 @@ plot_posterior(5, 7)
 
 ![png](sr-chapter2-output_23_0.png)
 
-### M3
+### 5.7 M3
 
 Two globes, one for Earth and one for Mars. The Earth one is 70% water, the Mars 0%. One of the globes is tossed, and produces an observation of "Land". If each globe was equally likely to be tossed, then show that the posterior probability that the globe was Earth, conditioned on it producing the "Land" observation, is 0.23
 
@@ -357,17 +357,17 @@ P(E|L) &= P(E) \ast \frac{P(L|E)}{P(L)} \\
 \end{align*}
 $$
 
-### M4
+### 5.8 M4
 
 Deck with three cards. Each card has two sides, each either black or white. One cards has two black sides. The second card has one black and one white side. The third has two white sides. Now suppose that the cards are put in a bag, and one is removed and placed on the table. Show that the probability that the other side is black is 2/3. Use the counting method.
 
 ![image.png](attachment:984857a3-6b0d-4a68-9f7a-008cdaf5ed49.png)
 
-### M5
+### 5.9 M5
 4 / 5
 ![image.png](attachment:dff67c33-4ce5-4252-a9c1-22cd97a5c7e4.png)
 
-### M6
+### 5.10 M6
 Now imagine the black ink is heavier - for time you pull the BB, you pull the BW twice and the WW thrice. Again suppose that you grab a card and put it on the table, and the side facing up is B. Show that the probability that the other side is black is 0.5.
 
 | Card | Ways to Draw | Black Sides | Total Ways |
@@ -378,7 +378,7 @@ Now imagine the black ink is heavier - for time you pull the BB, you pull the BW
 
 BB / total -> 2 / 4 -> 0.5
 
-### M7
+### 5.11 M7
 
 Assume the original card problem, with the black side facing up. Now, however, we choose another card and place it on the table. The side facing up on the new card is white. Show that now the probability that the other side is black is 0.75. Hint: treat this like a sequence of globe tosses, counting all the ways to see each observation for each possible first card
 
@@ -388,7 +388,7 @@ First card:
     - WW. 0 ways to get the first -> 0
 6 / (6 + 2) -> 3/4
 
-### H1
+### 5.12 H1
 Two species of panda, indentical in every way, except that species A gives birth to twins 10% of the time and single births the rest, while species B gives birth to twins 20% of the time and single births the rest.
 
 A new panda gives birth to twins. What is the probability that the next birth will also be twins?
@@ -417,7 +417,7 @@ P(t_2 | t_1) &= P(t_2) \ast \frac{P(t_1|t_2)}{P(t_1)} \\
 \end{align*}
 $$
 
-### H2
+### 5.13 H2
 
 Now compute the probability that the panda was species A, assuming that we just have the first birth.
 
@@ -430,7 +430,7 @@ P(A|t) &= P(A) \ast \frac{P(t|A)}{P(T))} \\
 \end{align*}
 $$
 
-### H3
+### 5.14 H3
 
 Now that same panda gives birth again, but to a single infant this time. Update the probability that it is of species A.
 
@@ -442,7 +442,7 @@ P(A|s) &= P(A) \frac{P(s|A)}{P(s)} \\
 \end{align*}
 $$
 
-### H4
+### 5.15 H4
 
 Now let's add in some totally different data. Say a geneticist develops a test, which has the following properties:
 - The probability it correctly identifies species A is 0.8
