@@ -11,9 +11,9 @@ series: Insurance Canada Webinar Series
 **Series**: [[Insurance Canada Webinar Series]]
 **tags**: #talk #insurance
 
-## Summary
+## 1 Summary
 
-## Abstract
+## 2 Abstract
 ```
 Boardwalk Insurance is a relatively new forward-thinking brokerage that specializes in assisting small and mid-sized business owners in navigating the intricacies of the insurance market. To stand apart in the commercial insurance market place, they focus on accessibility, speed, and transparency.
 
@@ -22,7 +22,7 @@ To meet these objectives, Boardwalk leverages cutting-edge technology supporting
 CEO Michael Malfa will describe Boardwalk's journey to date, some of the challenges and successes, and his thoughts looking toward the future.
 ```
 
-## Notes
+## 3 Notes
 - [[Boardwalk Insurance]]
 - Focused on UX for brokers (and hence customers)
 - Customers are especially confused by the complexity of commercial insurance
@@ -45,7 +45,7 @@ CEO Michael Malfa will describe Boardwalk's journey to date, some of the challen
 - "Changing of the guard" with regards to technology integration and service preference
 - Have to enable the human element as well - some people want a broker to help them
 
-### Questions / Answers
+### 3.1 Questions / Answers
 - Background
 	- Launched 2021
 	- Oracle RMS (brokerage they're part of)

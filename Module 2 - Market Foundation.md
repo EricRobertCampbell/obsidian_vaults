@@ -1,0 +1,64 @@
+## 1 Introduction to Market Foundation
+- In market foundations, we review the tools and existing data to lay the foundation for the market development we'll do later
+- You have data and learnings - maybe just not codified and organized
+- "Stop Improvising your way to market" and "start acting with intent"
+- Properly resource any hypotheses that you're testing
+- Plan before executing
+- First step: evaluate your team
+- What is the resource budget?
+- You have to resource market development correctly
+- What is your existing talent roadmap (i.e. which people will you have to hire once you scale?)
+- Then look at the marketing and sales processes
+	- What worked, what didn't, and why?
+- What is your sales and marketing collateral? What pieces of collateral do you have and what do you still need?
+- Take time to be critical and try not to take it personally
+- Don't avoid the tough conversations - use the data to get better
+- Don't avoid the elephant in the room - "[[Hug the Elephant]]"
+## 2 Resource Review - People
+### 2.1 Critical Concepts
+- Focus on the people
+- Goal: develop your market development budget
+- How many person-hours can you devote to market development?
+- What is the budget and who will lead the efforts?
+- Often a lack of accountability for this in startups - e.g. "*We* will start the email campaign" translates to no one actually does it
+- There has to be a single person responsible for the effort
+- Need accountability
+- In order to have expectations we need to manage expectations
+- Break down everyone and see who is in the Product Team and who in the Market Team
+- Market Team:
+	- This is where you have the market development budget
+- For each team member:
+	- What are their skills?
+	- What are they hoping to achieve?
+	- What can you count on them to do when it comes to go-to-market strategy
+- Who will own the market development process?
+- What relevant skills and times do they have?
+- Both of those together constitute the Market Development budget
+- If you have someone doing that who doesn't have sales experience, you probably won't get those professional results -> set expectations appropriately
+- Talent Roadmap - what breaks as you start to add in customers?
+- Often Market Development
+- You're responsible for the whole customer funnel
+- Probably will need to specialize -> hire new people
+- Don't want to get in the state of the seams breaking *and then* go look to hire someone
+- Hasty hires are often trouble
+- Talent roadmap comes first to avoid this!
+- If you don't have the right people you won't get the right results
+- Seams will break -> plan for them
+- Hire toward your values instead of quickly towards your needs
+### 2.2 Exercise and Template Coaching
+- Jump into the template
+- Take time on it - dig deep  and understand how much time you as the team have to apply to sales, marketing, &c.
+- Goal of the program is to grow revenue -> it's a byproduct of the time you've spent on the customer acquisition strategy
+- Have to have the governor in place - here are the resources that we have
+- How much time do we have to apply to market-based activities?
+- Have to make getting to revenue a priority
+	- Easy to put it on the back burner as other things come up
+- Will often see that what someone was hired for and what they are actually doing are quite different
+- Be honest about the skills, strengths, and weaknesses
+- This is meant to be a starting point - it's OK if you are not spending a lot of time on market activities. That might need to change, but get the truth out first
+- Before making any changes: is that number of market development hours enough? If not, how can we add more hours?
+- More hours doesn't necessarily mean more revevnue
+- Doing a resource review and talent roadmap every few months (beginning) or every year or so (more mature company) is a great idea
+- 
+## 3 Resource Review - Marketing and Sales Processes
+## 4 Resource Review - Technology and Collateral

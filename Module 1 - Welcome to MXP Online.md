@@ -1,0 +1,37 @@
+## 1 Welcome to MXP Online
+- ![[Pasted image 20230814163333.png]]
+- [[GrowthX]] is a venture capital fund
+- Where does the product fit in the market
+- Program is a virtual, on-demand version of what [[Max Menke]] does with the founders
+- Not an academic program
+	- Focus is on achieving success in the market
+	- Do the work to engage with the market
+	- Important: have to do the work *inside* the building so that you can be successful *outside* it
+	- Don't skip steps - each of them has their place
+	- Even if you're familiar with the concepts - includes case studies, &c. You can always learn something!
+	- How to read the market?
+	- Pay attention to the concepts 
+	- Templates are critical
+- Path to product-market fit is not linear
+- Doesn't happen like in Hollywood
+- Key is iteration - test things out and go from there
+- May need to rethink some assumptions that you've made
+
+## 2 Exercises and Templates
+- As you go through MXP, each stage has downloadable exercises
+- Exercises are the actual market development work
+- Things you need to do to get product-market fit, get customers, and scale
+- Designed and ordered 
+- Completing one form is required to do the next
+- e.g. [[Ideal Customer Profile]] has a significant effect on the pricing strategy, &c.
+- Each exercise should make it easier to make decisions about the subsequent ideas
+- Exercises push you to keep every part in balance
+- Exercises codify your learning
+- Be intentional about all of your mechanics, including capturing your learning
+- Incapable of learning if you don't capture your data
+	- So, first capture the data through the exercises
+- Get exciting after [[MXP]]
+- Continue to use the exercises after "graduating"
+- Important to continue to capture information
+- "Get intimate with your revenue"
+- 
