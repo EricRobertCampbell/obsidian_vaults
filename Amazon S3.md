@@ -1,0 +1,7 @@
+- [Amazon S3](https://aws.amazon.com/s3/)
+- File storage (Simple Storage Service)
+- An [[Amazon S3 Bucket]] is a container for [[Amazon S3 Object]]s
+- An [[Amazon S3 Object]] is a file and any metadata that describes it
+- Looks like there is a rest API along with a [Python SDK](https://aws.amazon.com/sdk-for-python/)
+	- [QuickStart](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+	- [API Reference](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html)
