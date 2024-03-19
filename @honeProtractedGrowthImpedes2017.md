@@ -4,22 +4,22 @@ authors: D. W. E. Hone, Jordan C. Mallon
 year: 2017
 ---
 # Protracted growth impedes the detection of sexual dimorphism in non-avian dinosaurs
-#### 2017 - David W. E. Hone, Jordan C. Mallon
+#### 0.1.1 David W. E. Hone, Jordan C. Mallon
 **Link**: https://onlinelibrary.wiley.com/doi/abs/10.1111/pala.12298
 **DOI**: 10.1111/pala.12298
 **Authors**: [[D. W. E. Hone]], [[Jordan C. Mallon]]
 **Links**:
 **Tags**: #paper
 
-## Summary
+## 1 Summary
 	Apart from the other difficulties with establishing sexual dimorphism, the growth pattern of dinosaurs throws a wrench in the works. Basically: dinosaurs show a pattern of slow, possibly indeterminate growth - they grow for basically their whole lives. This makes sexual size dimorphism hard to find, since a male will be the same size as a female a few years older (even if there is clear dimorphism among individuals of the same age).
 
-## Abstract
+## 2 Abstract
 ```
 Evidence for sexual dimorphism is extremely limited in the non-avian dinosaurs despite their high diversity and disparity, and despite the fact that dimorphism is very common in vertebrate lineages of all kinds. Using body-size data from both Alligator mississippiensis and Rhea americana, which phylogenetically bracket the dinosaurs, we demonstrate that even when there is strong dimorphism in a species, random sampling of populations of individuals characterized by sustained periods of growth (as in the alligator and most dinosaurs) can result in the loss of this signal. Dimorphism may be common in fossil taxa but very hard to detect without ontogenetic age control and large sample sizes, both of which are hampered by the limitations of the fossil record. Signal detection may be further hindered by Type III survivorship, whereby increased mortality among the young favours the likelihood that they will be sampled (unless predation or taphonomic bias against small size acts against this). These, and other considerations relating to behaviour and ecology, provide powerful reasons to suggest that sexual dimorphism in dinosaurs may be very difficult to detect in almost all currently available samples. Similar issues are likely also to be applicable to many fossil reptiles, or animals more generally.
 ```
 
-## Notes
+## 3 Notes
 - Both clades that form the [[Extant Phylogenetic Bracket]] for [[Dinosauria]] ([[Aves]] and [[Pseudosuchia]]) have [[Sexual Dimorphism|sexually dimorphic species]]
 - Lots of claims for [[Sexual Dimorphism]] in [[Dinosauria]], but all controversial - sample size, &c.
 - One explanation is mutual sexual selection, but that still leaves some gaps
@@ -57,4 +57,4 @@ Evidence for sexual dimorphism is extremely limited in the non-avian dinosaurs d
 	- If there's trouble doing it under basically ideal circumstances, imagine it with all the difficulties!
 - 
 
-## Next Steps / Ideas
+## 4 Next Steps / Ideas

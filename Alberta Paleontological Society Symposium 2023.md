@@ -1,7 +1,7 @@
 - Put on by the [[Alberta Paleontological Society]]
 - Part of the [[Alberta Paleontological Society Symposium]] series
 
-## Talks
+## 1 Talks
 - [[The “Rasetti Stone” and the tree of life - A phylogenetic perch for the enigmatic Stenothecoida]]
 - [[Triassic fossils from Southern Brazil]]
 - [[New discoveries from Alberta reshape our understanding of tyrannosaur biology]]
@@ -12,7 +12,7 @@
 - [[Interdisciplinary records of extinction and exceptional fossil preservation in the Early Jurassic Ya Ha Tinda Lagerstätte from Alberta.]]
 
 
-## Posters
+## 2 Posters
 - [[Bot-flies or not-flies—Eocene Green River Formation mystery fossils]]
 - [[Comparison of sclerobiont communities between three brachiopod host species from the Ordovician Fairview Formation]]
 - [[Classification and description of predatory repair scars]]

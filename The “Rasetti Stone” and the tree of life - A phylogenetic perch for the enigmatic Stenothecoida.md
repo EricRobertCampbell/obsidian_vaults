@@ -11,15 +11,15 @@ series: Alberta Paleontological Society Symposium
 **Series**: [[Alberta Paleontological Society Symposium]]
 **tags**: #paleontology #talk 
 
-## Summary
+## 1 Summary
 Does a bunch of research - [[Stenothecoida]] ends up being a stem [[Brachiopoda]]
 
-## Abstract
+## 2 Abstract
 ```
 
 ```
 
-## Notes
+## 3 Notes
 - [[Stenothecoida]] - "problem child"
 - [[Taxonomy]] - the oldest job
 - A [[Phylogenetic Tree]] is a hypothesis about evolutionary relationships
@@ -27,7 +27,7 @@ Does a bunch of research - [[Stenothecoida]] ends up being a stem [[Brachiopoda]
 - [[Ernst Haeckel]] - "Tree of Life" (1866)
 - Normally not too hard to classify
 	- Sometimes we run into ones that are difficule
-### Burgess Shale
+### 3.1 Burgess Shale
 - In [[Yoho National Park]]
 - [[Charles D. Walcott]], 1909
 - In addition to the famous [[Shale|shale]] there, there are also [[Limestone|limestones]] (mostly ignored)
@@ -113,7 +113,7 @@ Does a bunch of research - [[Stenothecoida]] ends up being a stem [[Brachiopoda]
 - Indicating little or no transport fro the top of the platform
 - Indicates that the [[Burgess Shale]] ?????????
 
-### Q / A
+### 3.2 Q / A
 - 3 locations that produce [[Stenothecoida]]
 	- Only one specimen was articulated
 - At another location almost all were articulated
