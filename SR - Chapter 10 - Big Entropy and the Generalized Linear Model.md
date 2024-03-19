@@ -168,7 +168,7 @@ There are two changes here as compared to the regular Gaussian model.
 
 The most common distributions used in statistical modelling are members of a family known as the [[Exponential Family]]. Every member of the family is a maximum entropy distribution for some set of constraints. Conveniently, just about every other statistical modelling tradition employs the same distributions, even though they arrive at them via justifications other than maximum entropy.
 
-Two of the distributions, the [[Normal Distribution|Gaussian]] and [[Binomial Distribution|binomial]], are the most commonly used distributions in applied statistics through [[Linear Regression]] ([[SR - Chapter 4 - Geocentric Models|Chapter 4]]) and [[Logistic Regression]] ([[SR - Chapter 11|Chapter 11]]).
+Two of the distributions, the [[Normal Distribution|Gaussian]] and [[Binomial Distribution|binomial]], are the most commonly used distributions in applied statistics through [[Linear Regression]] ([[SR - Chapter 4 - Geocentric Models|Chapter 4]]) and [[Logistic Regression]] ([[SR - Chapter 11 - God Spiked the Integers|Chapter 11]]).
 
 The [[Exponential Distribution]] is constrained to be zero or positive. It is a distribution describing distance or duration, kinds of measurements that describe a displacement in space / time. If the probability of an event is constant in space or time, then the distribution of events tends toward the **exponential**. Shape is described by a single parameter, $\lambda$ (rate of events) or $\lambda^{-1}$, the average displacement. The [[Exponential Distribution|exponential]] is core to survival or event history analysis (not in this book).
 
