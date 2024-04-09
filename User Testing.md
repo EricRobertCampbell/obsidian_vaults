@@ -1,0 +1,36 @@
+- Complement to [[Automated Testing]], but with a different focus
+- Basic idea: does the product meet the needs and expectations of the customer?
+- HubSpot:
+> User testing involves getting end users and customers to test and evaluate a product, feature, or prototype. Test subjects use the item and identify various pain points and positive attributes so that businesses can enhance their user experience before going to market.
+- While you / the developer may find the product works, you're probably not the ones who will be actually using it - test with those people
+- Use the information to iterate the [[User Experience|UX]]
+- Focuses on everything about the product
+- [[Usability Testing]] is similar, but focuses on how well the product works to help the user accomplish a specific goal
+- ![[user-testing_2.webp]]
+- Moderated v. unmoderated - is there someone there to speak with the user as they run through the product?
+	- With unmoderated you usually have a video recording or something
+- Be sure to provide clear instructions
+- Indicate the amount of time the test will take
+- Make sure they have the right equipment
+- Talk about how feedback should be received (written, oral, &c.)
+- After, look at all the issues and classify them by severity (critical, annoyances, &c.)
+- Be sure to also look at the positives!
+- Some things to consider:
+	- Are the users able to complete the task at all?
+	- How efficiently are they able to complete them?
+	- What changes could be made to increase this efficiency?
+- Do the users *enjoy* using the product? Important because if they don't then they will resist using it no matter how much it
+- Plan:
+	- What are you testing?
+	- How will the test be run?
+	- What metrics will you capture and how will you capture them?
+	- Number of users to test?
+	- What is the scenario for the test?
+- Important not to jump in to solve any problems that come up immediately - you won't be able to do this when real users are using the product, and the way the the user reacts (e.g. how they try to solve the problem themself) can be instructive.
+- Make sure to emphasize that they can say whatever and it won't hurt your feelings - honest feedback is the whole point!
+- 
+## 1 Sources
+- [Hubspot - User Testing](https://blog.hubspot.com/service/user-testing)
+- [Smashing Magazine - A Comprehensive Guide to User Testing](https://www.smashingmagazine.com/2018/03/guide-user-testing/)
+- [Toptal - 6 steps for usability testing](https://www.toptal.com/designers/ux-consultants/how-to-conduct-usability-testing-in-6-steps)
+- [Wikipedia - Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)

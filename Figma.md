@@ -1,0 +1,9 @@
+- [Figma](figma.com)
+- [YouTube Playlist - getting started with Figma](https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
+- [[Wireframe]] - simple, style free version of the application
+- Frames are the containers you place things in (like a screen)
+- Frame tool is the hashmark
+- To copy a group, make it a frame
+- You can create components and re use them
+- Organize them into a library
+- 
