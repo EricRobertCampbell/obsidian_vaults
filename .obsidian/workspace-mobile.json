@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "35c411dd2bf402c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eec48ea04d76e357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca245c327272f0e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Henderson et al. - 2022 - A busy time at the beach multiple examples of gre.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "642ae3d580421cea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "600dded5c8ca6502",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a501e90f51196bb1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "A busy",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a692fb09a56a0639",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "826921f89da1e4f0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "f49f78589f24372b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6b90cf5269976b71",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Henderson et al. - 2022 - A busy time at the beach multiple examples of gre.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "110c63e751ec0d8e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a34ac671f7beedce",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dca245c327272f0e",
+  "lastOpenFiles": [
+    "@hendersonBusyTimeBeach2022.md",
+    "Henderson et al. - 2022 - A busy time at the beach multiple examples of gre.pdf",
+    "01image003.png",
+    "Chapter 1 - Vertebrates Originate.md",
+    "@andersonLongBoneCircumference1985.md",
+    "R.md",
+    "Helcim.md",
+    "Tyler Becker.md",
+    "Lacrimal Duct.md",
+    "Jorge Luna.md",
+    "J. M. Witmer.md",
+    "Lepidodendron.md",
+    "Glenoid.md",
+    "Pygostyle.md",
+    "Francois-Xavier (FX) Jeannet.md",
+    "numpy.md",
+    "Mohammad Keyhani.md",
+    "Lakin Wecker.md",
+    "John Issa.md",
+    "Michael J. Benton.md",
+    "Galadriel Freeman Peters.md",
+    "Oviraptor.md",
+    "J. F. Anderson.md",
+    "Avemetatarsalia.md",
+    "Alberta.md",
+    "Amber.md",
+    "Atriophore.md",
+    "Auth0.md",
+    "02-05 1.png",
+    "02-06.png",
+    "02-01.png",
+    "02-09.png",
+    "02-04.png",
+    "01image005.png",
+    "02-10.png",
+    "3-s2.0-B9780123748553000017-gr11.jpg",
+    "01image004.png",
+    "Untitled",
+    "JavaScript async",
+    "coretemplates"
+  ]
+}
