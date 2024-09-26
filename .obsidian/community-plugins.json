@@ -4,5 +4,7 @@
   "obsidian-citation-plugin",
   "templater-obsidian",
   "obsidian-admonition",
-  "number-headings-obsidian"
+  "number-headings-obsidian",
+  "tldraw",
+  "obsidian-excalidraw-plugin"
 ]

@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "tags"
+  ]
 }

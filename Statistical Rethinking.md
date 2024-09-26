@@ -11,7 +11,7 @@
 - [[SR - Chapter 10 - Big Entropy and the Generalized Linear Model]]
 - [[SR - Chapter 11 - God Spiked the Integers]]
 - [[SR - Chapter 12]]
-- [[SR - Chapter 13]]
+- [[SR - Chapter 13 - Models with Memory]]
 - [[SR - Chapter 14]]
 - [[SR - Chapter 15]]
 - [[SR - Chapter 16]]

@@ -7,11 +7,12 @@ year: 2022
 #### 0.1.1 Donald M. Henderson, Benjamin Borkovic, Joseph Sanchez, Amy L. Kowalchuk
 **Link**: https://cdnsciencepub.com/doi/10.1139/cjes-2021-0069
 **DOI**: 10.1139/cjes-2021-0069
-**Authors**: Donald M. Henderson, Benjamin Borkovic, Joseph Sanchez, Amy L. Kowalchuk
+**Authors**: [[Donald M. Henderson]], [[Benjamin Borkovic]], [[Joseph Sanchez]], [[Amy L. Kowalchuk]]
 **Links**:
 **Tags**: #paper
 
 ## 1 Summary
+- Describes a slab from the [[St. Mary Formation]] with a bunch of tracks
 
 ## 2 Abstract
 ```
