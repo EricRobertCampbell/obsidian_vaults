@@ -1,0 +1,1 @@
+A vector that sums to some given value (usually 1)
